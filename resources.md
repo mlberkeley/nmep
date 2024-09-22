@@ -1,6 +1,7 @@
 ---
 title: Resources
 nav_order: 3
+layout: home
 ---
 
 #### HW 0 (Math)
