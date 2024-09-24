@@ -12,7 +12,7 @@ In the New Member Education Program (NMEP), we'll be paving a sturdy ML foundati
 
 ### Schedule
 
-| Week | Date  | Lecture                           | Assignments <div style="width:fit-content">property</div>                                 | Lecturer                |
+| Week | Date  | Lecture                           | Assignments | Lecturer                |
 |:-|:-|:-| :-| :-|
 | 1  | Sep 23 | Intro + Background Review          | **Lecture Exercise**{: .label } [Rockfall] <br> **Homework 1**{: .label .label-yellow } Math Review                 |                         |
 | 2  | Sep 30 | Classical ML                       |                                             |                         |
@@ -30,19 +30,19 @@ In the New Member Education Program (NMEP), we'll be paving a sturdy ML foundati
 
 <style>
     table th:first-of-type {
-        width: 10%;
+        width: 5%;
     }
     table th:nth-of-type(2) {
-        width: 10%;
+        width: 5%;
     }
     table th:nth-of-type(3) {
-        width: 20%;
+        width: 10%;
     }
     table th:nth-of-type(4) {
-        width: 35%;
+        width: 50%;
     }
     table th:nth-of-type(5) {
-        width: 15%;
+        width: 20%;
     }
 </style>
 
