@@ -14,7 +14,7 @@ In the New Member Education Program (NMEP), we'll be paving a sturdy ML foundati
 
 | Week | Date  | Lecture                           | Assignments                                 | Lecturer                |
 |:-------------|:------------------|:------| :-| :-|
-| 1  | Sep 23 | Intro + Background Review          | **Lecture Exercise**{: .label } [Rockfall] **Homework 1**{: .label .label-yellow } Math Review                 |                         |
+| 1  | Sep 23 | Intro + Background Review          | **Lecture Exercise**{: .label } [Rockfall] <br> **Homework 1**{: .label .label-yellow } Math Review                 |                         |
 | 2  | Sep 30 | Classical ML                       |                                             |                         |
 | 3  | Oct 7  | Deep Learning, Embeddings          |                                             |                         |
 | 4  | Oct 14 | CNNs & Object Detection            |                                             |                         |
