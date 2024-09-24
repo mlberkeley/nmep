@@ -30,19 +30,19 @@ In the New Member Education Program (NMEP), we'll be paving a sturdy ML foundati
 
 <style>
     table th:first-of-type {
-        width: 5%;
+        width: 30px;
     }
     table th:nth-of-type(2) {
-        width: 5%;
+        width: 30px;
     }
     table th:nth-of-type(3) {
-        width: 10%;
+        width: 30%;
     }
     table th:nth-of-type(4) {
         width: 50%;
     }
     table th:nth-of-type(5) {
-        width: 20%;
+        width: 17%;
     }
 </style>
 

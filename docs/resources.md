@@ -4,6 +4,8 @@ nav_order: 3
 layout: home
 ---
 
+## [Server Form](https://forms.gle/zybsuJ7CwQCXeHni6)
+
 ### HW 0 (Math)
 - [Princeton NEU 314](http://pillowlab.princeton.edu/teaching/mathtools16/slides/lec10_LeastSquaresRegression.pdf) Sections 1 through 2.1 (Least squares with vector calculus)
 - [Stanford cheat sheets](https://stanford.edu/~shervine/teaching/) on ML and math
