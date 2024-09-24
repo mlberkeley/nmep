@@ -12,7 +12,7 @@ In the New Member Education Program (NMEP), we'll be paving a sturdy ML foundati
 
 ### Schedule
 
-| Week | Date  | Lecture                           | Assignments                                 | Lecturer                |
+| Week | Date  | Lecture                           | Assignments <div style="width:fit-content">property</div>                                 | Lecturer                |
 |:-|:-|:-| :-| :-|
 | 1  | Sep 23 | Intro + Background Review          | **Lecture Exercise**{: .label } [Rockfall] <br> **Homework 1**{: .label .label-yellow } Math Review                 |                         |
 | 2  | Sep 30 | Classical ML                       |                                             |                         |
@@ -28,6 +28,23 @@ In the New Member Education Program (NMEP), we'll be paving a sturdy ML foundati
 | 12 | Dec 9  | (No Lecture) Final Presentations   |                                             |                         |
 
 
+<style>
+    table th:first-of-type {
+        width: 10%;
+    }
+    table th:nth-of-type(2) {
+        width: 10%;
+    }
+    table th:nth-of-type(3) {
+        width: 20%;
+    }
+    table th:nth-of-type(4) {
+        width: 35%;
+    }
+    table th:nth-of-type(5) {
+        width: 15%;
+    }
+</style>
 
 
 [Rockfall]: https://drive.google.com/file/d/1UM2w5BrJrEcI69_eqhIn-t1yrdC7XzY9/view?usp=drive_link
