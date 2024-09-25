@@ -10,7 +10,7 @@ layout: home
 - [Princeton NEU 314](http://pillowlab.princeton.edu/teaching/mathtools16/slides/lec10_LeastSquaresRegression.pdf) Sections 1 through 2.1 (Least squares with vector calculus)
 - [Stanford cheat sheets](https://stanford.edu/~shervine/teaching/) on ML and math
 - [Calculus for ML](https://ml-cheatsheet.readthedocs.io/en/latest/calculus.html) cheat sheet
-- [Linear Algebra Review](/assets/resources/linalg-review.pdf)
+- [Linear Algebra Review](/fa24-nmep/assets/resources/linalg-review.pdf)
 
 ### Neural Networks
 - [CS197 Harvard](https://docs.google.com/document/d/1dA8KmOTZePMRl3MixxM6Fb0H8IJhIyn_g-LUXbRHeqU): Moonwalking with PyTorch
