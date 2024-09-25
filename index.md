@@ -29,20 +29,25 @@ In the New Member Education Program (NMEP), we'll be paving a sturdy ML foundati
 
 
 <style>
-    table th:first-of-type {
+    table th:first-of-type tr:first-of-type {
         width: 30px;
     }
-    table th:nth-of-type(2) {
+
+    table th:nth-of-type(2) tr:nth-of-type(2) {
         width: 30px;
     }
-    table th:nth-of-type(3) {
+    table th:nth-of-type(3) tr:nth-of-type(3) {
         width: 30%;
     }
-    table th:nth-of-type(4) {
+    table th:nth-of-type(4) tr:nth-of-type(4) {
         width: 50%;
     }
-    table th:nth-of-type(5) {
+    table th:nth-of-type(5) tr:nth-of-type(5) {
         width: 17%;
+    }
+
+    table {
+        table-layout: fixed !important;
     }
 </style>
 
