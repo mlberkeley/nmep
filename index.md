@@ -12,13 +12,13 @@ In the New Member Education Program (NMEP), we'll be paving a sturdy ML foundati
 
 ### Schedule
 
-<table>
+<table style="table-layout: fixed;">
     <colgroup>
        <col span="1" style="width: 30px;">
        <col span="1" style="width: 60px;">
-       <col span="1" style="width: fit-content;">
-       <col span="1" style="width: fit-content;">
-       <col span="1" style="width: fit-content;">
+       <col span="1" style="width: calc(40% - 120px)">
+       <col span="1" style="width: calc(60% - 120px)">
+       <col span="1" style="width: 150px;">
     </colgroup>
 
     <tr> <th style="max-width: 30px;">Week</th> <th>Date</th> <th>Lecture</th> <th>Assignments</th> <th>Lecturer(s)</th> </tr>
@@ -111,14 +111,6 @@ In the New Member Education Program (NMEP), we'll be paving a sturdy ML foundati
         <td></td>
     </tr>
 </table>
-
-
-<style>
-    table {
-        table-layout: fixed !important;
-    }
-</style>
-
 
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
 [GitHub Pages]: https://docs.github.com/en/pages
