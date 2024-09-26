@@ -13,6 +13,14 @@ In the New Member Education Program (NMEP), we'll be paving a sturdy ML foundati
 ### Schedule
 
 <table>
+    <colgroup>
+       <col span="1" style="width: 30px;">
+       <col span="1" style="width: 60px;">
+       <col span="1" style="width: fit-content;">
+       <col span="1" style="width: fit-content;">
+       <col span="1" style="width: fit-content;">
+    </colgroup>
+
     <tr> <th style="max-width: 30px;">Week</th> <th>Date</th> <th>Lecture</th> <th>Assignments</th> <th>Lecturer(s)</th> </tr>
     <tr>
         <td style="max-width: 30px;">1</td>
