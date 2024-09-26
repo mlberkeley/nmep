@@ -13,9 +13,9 @@ In the New Member Education Program (NMEP), we'll be paving a sturdy ML foundati
 ### Schedule
 
 <table>
-    <tr> <th style="width: 30px;">Week</th> <th>Date</th> <th>Lecture</th> <th>Assignments</th> <th>Lecturer(s)</th> </tr>
+    <tr> <th style="max-width: 30px;">Week</th> <th>Date</th> <th>Lecture</th> <th>Assignments</th> <th>Lecturer(s)</th> </tr>
     <tr>
-        <td style="width: 30px;">1</td>
+        <td style="max-width: 30px;">1</td>
         <td>Sep 23</td>
         <td>Intro + Background Review</td>
         <td><span class="label"><strong>Lecture Exercise</strong></span> <a href="https://drive.google.com/file/d/1UM2w5BrJrEcI69_eqhIn-t1yrdC7XzY9/view?usp=drive_link">Rockfall</a><br> 
@@ -26,77 +26,77 @@ In the New Member Education Program (NMEP), we'll be paving a sturdy ML foundati
         <td>Tim Xie, Tejas Prabhune</td>
     </tr>
     <tr>
-        <td style="width: 30px;">2</td>
+        <td style="max-width: 30px;">2</td>
         <td>Sep 30</td>
         <td>Classical ML</td>
         <td></td>
         <td></td>
     </tr>
     <tr>
-        <td style="width: 30px;">3</td>
+        <td style="max-width: 30px;">3</td>
         <td>Oct 7</td>
         <td>Deep Learning, Embeddings</td>
         <td></td>
         <td></td>
     </tr>
     <tr>
-        <td style="width: 30px;">4</td>
+        <td style="max-width: 30px;">4</td>
         <td>Oct 14</td>
         <td>CNNs & Object Detection</td>
         <td></td>
         <td></td>
     </tr>
     <tr>
-        <td style="width: 30px;">5</td>
+        <td style="max-width: 30px;">5</td>
         <td>Oct 21</td>
         <td>NLP & Transformers 1</td>
         <td></td>
         <td></td>
     </tr>
     <tr>
-        <td style="width: 30px;">6</td>
+        <td style="max-width: 30px;">6</td>
         <td>Oct 28</td>
         <td>Transformers 2</td>
         <td></td>
         <td></td>
     </tr>
     <tr>
-        <td style="width: 30px;">7</td>
+        <td style="max-width: 30px;">7</td>
         <td>Nov 4</td>
         <td>Self-supervised Learning</td>
         <td></td>
         <td></td>
     </tr>
     <tr>
-        <td style="width: 30px;">8</td>
+        <td style="max-width: 30px;">8</td>
         <td>Nov 11</td>
         <td>RL</td>
         <td></td>
         <td></td>
     </tr>
     <tr>
-        <td style="width: 30px;">9</td>
+        <td style="max-width: 30px;">9</td>
         <td>Nov 18</td>
         <td>GANs, Diffusion</td>
         <td></td>
         <td></td>
     </tr>
     <tr>
-        <td style="width: 30px;">10</td>
+        <td style="max-width: 30px;">10</td>
         <td>Nov 25</td>
         <td>Ethics</td>
         <td></td>
         <td></td>
     </tr>
     <tr>
-        <td style="width: 30px;">11</td>
+        <td style="max-width: 30px;">11</td>
         <td>Dec 2</td>
         <td>Special Topics</td>
         <td></td>
         <td></td>
     </tr>
     <tr>
-        <td style="width: 30px;">12</td>
+        <td style="max-width: 30px;">12</td>
         <td>Dec 9</td>
         <td>(No Lecture) Final Presentations</td>
         <td></td>
