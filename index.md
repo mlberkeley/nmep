@@ -113,32 +113,9 @@ In the New Member Education Program (NMEP), we'll be paving a sturdy ML foundati
 </table>
 
 
-
-<!-- | Week | Date  | Lecture                           | Assignments | Lecturer                | -->
-<!-- |:-|:-|:-| :-| :-| -->
-<!-- | 1  | Sep 23 | Intro + Background Review          | **Lecture Exercise**{: .label } [Rockfall] <br> **Homework 1**{: .label .label-yellow } [Math Review](/fa24-nmep/assets/hw0/hw0-math.pdf) [Pandas](/fa24-nmep/assets/hw0/hw0-pandas.ipynb) [Numpy](/fa24-nmep/assets/hw0/hw0-numpy.ipynb)                 |                         | -->
-<!-- | 2  | Sep 30 | Classical ML                       |                                             |                         | -->
-<!-- | 3  | Oct 7  | Deep Learning, Embeddings          |                                             |                         | -->
-<!-- | 4  | Oct 14 | CNNs & Object Detection            |                                             |                         | -->
-<!-- | 5  | Oct 21 | NLP & Transformers 1               |                                             |                         | -->
-<!-- | 6  | Oct 28 | Transformers 2                     |                                             |                         | -->
-<!-- | 7  | Nov 4  | Self-supervised Learning           |                                             |                         | -->
-<!-- | 8  | Nov 11 | RL                                 |                                             |                         | -->
-<!-- | 9  | Nov 18 | GANs, Diffusion                    |                                             |                         | -->
-<!-- | 10 | Nov 25 | Ethics                             |                                             |                         | -->
-<!-- | 11 | Dec 2  | Special Topics                     |                                             |                         | -->
-<!-- | 12 | Dec 9  | (No Lecture) Final Presentations   |                                             |                         | -->
-
-
 <style>
     table {
         table-layout: fixed !important;
-    }
-
-    table {
-        tr, th {
-            width: fit-content !important;
-        }
     }
 </style>
 
