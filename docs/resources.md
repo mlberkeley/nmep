@@ -16,7 +16,7 @@ layout: home
 - [CS197 Harvard](https://docs.google.com/document/d/1dA8KmOTZePMRl3MixxM6Fb0H8IJhIyn_g-LUXbRHeqU): Moonwalking with PyTorch
 
 ### Computer Vision
-- JPEG through the lens of singal processing ([YouTube](https://www.youtube.com/watch?v=0me3guauqOU))
+- JPEG through the lens of signal processing ([YouTube](https://www.youtube.com/watch?v=0me3guauqOU))
 - [Understanding Convolutions](https://drive.google.com/drive/folders/1e4C7s3pEPt2lLirIu02DiUdKlKlvsMo5?usp=sharing) (old NMEP HW!)
 
 ### Papers

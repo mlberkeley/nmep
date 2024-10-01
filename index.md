@@ -7,7 +7,9 @@ nav_order: 1
 ## NMEP Fall 2024
 
 Welcome everyone!
-In the New Member Education Program (NMEP), we'll be paving a sturdy ML foundation for you—from classical ML to reinforcement learning. Come hungry to learn and get to know the rest of your class!
+In the New Member Education Program (NMEP), we'll be paving a sturdy ML foundation for you—from classical ML to diffusion models. Come hungry to learn and get to know the rest of your class!
+
+Your instructors this semester are Tejas Prabhune and [Tim Xie](https://tim-xie.com)!
 
 
 ### Schedule
@@ -25,27 +27,27 @@ In the New Member Education Program (NMEP), we'll be paving a sturdy ML foundati
     <tr>
         <td style="max-width: 30px;">1</td>
         <td>Sep 23</td>
-        <td>Intro + Background Review</td>
+        <td>Intro + Background Review (<a href="https://docs.google.com/presentation/d/16QicPaSS0YFcJvTFSn1yea5n_ORVMcbxCHjeDyoQSKg/edit?usp=drive_link">slides</a>)</td>
         <td><span class="label"><strong>Lecture Exercise</strong></span> <a href="https://drive.google.com/file/d/1UM2w5BrJrEcI69_eqhIn-t1yrdC7XzY9/view?usp=drive_link">Rockfall</a><br> 
         <span class="label label-yellow"><strong>Homework 1</strong></span> 
         <a href="/fa24-nmep/assets/hw0/hw0-math.pdf">Math Review</a> 
         <a href="/fa24-nmep/assets/hw0/hw0-pandas.ipynb">Pandas</a> 
         <a href="/fa24-nmep/assets/hw0/hw0-numpy.ipynb">Numpy</a></td>
-        <td>Tim Xie, Tejas Prabhune</td>
+        <td>Tim, Tejas</td>
     </tr>
     <tr>
         <td style="max-width: 30px;">2</td>
         <td>Sep 30</td>
-        <td>Classical ML</td>
+        <td>Classical ML (<a href="https://docs.google.com/presentation/d/13NwgyAVt6c79NgEvChtRHKd2ntMheDY2qmMQlMmAAS4/edit?usp=drive_link">slides</u>)</td>
         <td></td>
-        <td></td>
+        <td>Tejas</td>
     </tr>
     <tr>
         <td style="max-width: 30px;">3</td>
         <td>Oct 7</td>
         <td>Deep Learning, Embeddings</td>
         <td></td>
-        <td></td>
+        <td>Tim</td>
     </tr>
     <tr>
         <td style="max-width: 30px;">4</td>
@@ -59,7 +61,7 @@ In the New Member Education Program (NMEP), we'll be paving a sturdy ML foundati
         <td>Oct 21</td>
         <td>NLP & Transformers 1</td>
         <td></td>
-        <td></td>
+        <td>Sara</td>
     </tr>
     <tr>
         <td style="max-width: 30px;">6</td>
@@ -86,7 +88,7 @@ In the New Member Education Program (NMEP), we'll be paving a sturdy ML foundati
         <td style="max-width: 30px;">9</td>
         <td>Nov 18</td>
         <td>GANs, Diffusion</td>
-        <td></td>
+        <td>Mehdi, Nemer</td>
         <td></td>
     </tr>
     <tr>
