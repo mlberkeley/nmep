@@ -54,14 +54,14 @@ Your instructors this semester are Tejas Prabhune and [Tim Xie](https://tim-xie.
         <td>Oct 14</td>
         <td>CNNs & Object Detection</td>
         <td></td>
-        <td></td>
+        <td>Saathvik</td>
     </tr>
     <tr>
         <td style="max-width: 30px;">5</td>
         <td>Oct 21</td>
         <td>NLP & Transformers 1</td>
         <td></td>
-        <td>Sara</td>
+        <td>Chuyi, Sara</td>
     </tr>
     <tr>
         <td style="max-width: 30px;">6</td>
@@ -75,21 +75,21 @@ Your instructors this semester are Tejas Prabhune and [Tim Xie](https://tim-xie.
         <td>Nov 4</td>
         <td>Self-supervised Learning</td>
         <td></td>
-        <td></td>
+        <td>Tejas</td>
     </tr>
     <tr>
         <td style="max-width: 30px;">8</td>
         <td>Nov 11</td>
         <td>RL</td>
         <td></td>
-        <td></td>
+        <td>Luca</td>
     </tr>
     <tr>
         <td style="max-width: 30px;">9</td>
         <td>Nov 18</td>
         <td>GANs, Diffusion</td>
-        <td>Mehdi, Nemer</td>
         <td></td>
+        <td>Mehdi, Nemer</td>
     </tr>
     <tr>
         <td style="max-width: 30px;">10</td>
