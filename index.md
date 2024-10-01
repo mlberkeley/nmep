@@ -33,7 +33,7 @@ Your instructors this semester are Tejas Prabhune and [Tim Xie](https://tim-xie.
             <span class="label label-yellow"><strong>Homework 1</strong></span> 
             <a href="/fa24-nmep/assets/hw0/hw0-math.pdf">Math Review</a> 
             <a href="/fa24-nmep/assets/hw0/hw0-pandas.ipynb">Pandas</a> 
-            <a href="/fa24-nmep/assets/hw0/hw0-numpy.ipynb">Numpy</a></td>
+            <a href="/fa24-nmep/assets/hw0/hw0-numpy.ipynb">Numpy (due Oct 2)</a></td>
             <td>Tim, Tejas</td>
         </tr>
         <tr>
