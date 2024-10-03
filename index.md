@@ -64,49 +64,49 @@ Your instructors this semester are Tejas Prabhune and Tim Xie!
             <td>Saathvik</td>
         </tr>
         <tr>
-            <td style="max-width: 30px;">4</td>
+            <td style="max-width: 30px;">5</td>
             <td>Oct 21</td>
             <td>No Lecture (social!!)</td>
             <td></td>
             <td>Saathvik</td>
         </tr>
         <tr>
-            <td style="max-width: 30px;">5</td>
+            <td style="max-width: 30px;">6</td>
             <td>Oct 28</td>
             <td>NLP & Transformers 1</td>
             <td><span class="label label-yellow"><strong>Homework 3</strong></span></td>
             <td>Chuyi, Sara</td>
         </tr>
         <tr>
-            <td style="max-width: 30px;">6</td>
+            <td style="max-width: 30px;">7</td>
             <td>Nov 4</td>
             <td>Transformers 2</td>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <td style="max-width: 30px;">7</td>
+            <td style="max-width: 30px;">8</td>
             <td>Nov 11</td>
             <td>Self-supervised Learning</td>
             <td><span class="label label-green"><strong>Final Project Proposal</strong></span></td>
             <td>Tejas</td>
         </tr>
         <tr>
-            <td style="max-width: 30px;">8</td>
+            <td style="max-width: 30px;">9</td>
             <td>Nov 18</td>
             <td>RL</td>
             <td></td>
             <td>Luca</td>
         </tr>
         <tr>
-            <td style="max-width: 30px;">9</td>
+            <td style="max-width: 30px;">10</td>
             <td>Nov 25</td>
             <td>GANs, Diffusion</td>
             <td><span class="label label-green"><strong>Final Project Checkpoint</strong></span></td>
             <td>Mehdi, Nemer</td>
         </tr>
         <tr>
-            <td style="max-width: 30px;">10</td>
+            <td style="max-width: 30px;">11</td>
             <td>Dec 2</td>
             <td>Ethics</td>
             <td><span class="label label-red"><strong>Midterm</strong></span></td>
