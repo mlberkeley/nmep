@@ -47,69 +47,75 @@ Your instructors this semester are Tejas Prabhune and Tim Xie!
             <td style="max-width: 30px;">3</td>
             <td>Oct 7</td>
             <td>Deep Learning, Embeddings</td>
-            <td></td>
+            <td><span class="label label-yellow"><strong>Homework 1</strong></span>
+            Neural Networks Review
+            Intro to Pytorch
+            Word Embeddings
+            </td>
             <td>Tim</td>
         </tr>
         <tr>
             <td style="max-width: 30px;">4</td>
             <td>Oct 14</td>
             <td>CNNs & Object Detection</td>
+            <td><span class="label label-yellow"><strong>Homework 2</strong>
+            Homework 2 (Model Zhu)
+            </td>
+            <td>Saathvik</td>
+        </tr>
+        <tr>
+            <td style="max-width: 30px;">4</td>
+            <td>Oct 21</td>
+            <td>No Lecture (social!!)</td>
             <td></td>
             <td>Saathvik</td>
         </tr>
         <tr>
             <td style="max-width: 30px;">5</td>
-            <td>Oct 21</td>
+            <td>Oct 28</td>
             <td>NLP & Transformers 1</td>
-            <td></td>
+            <td><span class="label label-yellow"><strong>Homework 3</strong></td>
             <td>Chuyi, Sara</td>
         </tr>
         <tr>
             <td style="max-width: 30px;">6</td>
-            <td>Oct 28</td>
+            <td>Nov 4</td>
             <td>Transformers 2</td>
             <td></td>
             <td></td>
         </tr>
         <tr>
             <td style="max-width: 30px;">7</td>
-            <td>Nov 4</td>
+            <td>Nov 11</td>
             <td>Self-supervised Learning</td>
-            <td></td>
+            <td><span class="label label-green"><strong>Final Project Proposal</strong></td>
             <td>Tejas</td>
         </tr>
         <tr>
             <td style="max-width: 30px;">8</td>
-            <td>Nov 11</td>
+            <td>Nov 18</td>
             <td>RL</td>
             <td></td>
             <td>Luca</td>
         </tr>
         <tr>
             <td style="max-width: 30px;">9</td>
-            <td>Nov 18</td>
+            <td>Nov 25</td>
             <td>GANs, Diffusion</td>
-            <td></td>
+            <td><span class="label label-green"><strong>Final Project Checkpoint</strong></td>
             <td>Mehdi, Nemer</td>
         </tr>
         <tr>
             <td style="max-width: 30px;">10</td>
-            <td>Nov 25</td>
-            <td>Ethics</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td style="max-width: 30px;">11</td>
             <td>Dec 2</td>
-            <td>Special Topics</td>
-            <td></td>
+            <td>Ethics</td>
+            <td><span class="label label-black"><strong>Midterm</strong></td>
             <td></td>
         </tr>
         <tr>
             <td style="max-width: 30px;">12</td>
             <td>Dec 9</td>
-            <td>(No Lecture) Final Presentations</td>
+            <td>No Lecture (Final Presentations)</td>
             <td></td>
             <td></td>
         </tr>
