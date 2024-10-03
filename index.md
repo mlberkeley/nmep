@@ -58,7 +58,7 @@ Your instructors this semester are Tejas Prabhune and Tim Xie!
             <td style="max-width: 30px;">4</td>
             <td>Oct 14</td>
             <td>CNNs & Object Detection</td>
-            <td><span class="label label-yellow"><strong>Homework 2</strong>
+            <td><span class="label label-yellow"><strong>Homework 2</strong></span>
             Homework 2 (Model Zhu)
             </td>
             <td>Saathvik</td>
@@ -74,7 +74,7 @@ Your instructors this semester are Tejas Prabhune and Tim Xie!
             <td style="max-width: 30px;">5</td>
             <td>Oct 28</td>
             <td>NLP & Transformers 1</td>
-            <td><span class="label label-yellow"><strong>Homework 3</strong></td>
+            <td><span class="label label-yellow"><strong>Homework 3</strong></span></td>
             <td>Chuyi, Sara</td>
         </tr>
         <tr>
@@ -88,7 +88,7 @@ Your instructors this semester are Tejas Prabhune and Tim Xie!
             <td style="max-width: 30px;">7</td>
             <td>Nov 11</td>
             <td>Self-supervised Learning</td>
-            <td><span class="label label-green"><strong>Final Project Proposal</strong></td>
+            <td><span class="label label-green"><strong>Final Project Proposal</strong></span></td>
             <td>Tejas</td>
         </tr>
         <tr>
@@ -102,21 +102,21 @@ Your instructors this semester are Tejas Prabhune and Tim Xie!
             <td style="max-width: 30px;">9</td>
             <td>Nov 25</td>
             <td>GANs, Diffusion</td>
-            <td><span class="label label-green"><strong>Final Project Checkpoint</strong></td>
+            <td><span class="label label-green"><strong>Final Project Checkpoint</strong></span></td>
             <td>Mehdi, Nemer</td>
         </tr>
         <tr>
             <td style="max-width: 30px;">10</td>
             <td>Dec 2</td>
             <td>Ethics</td>
-            <td><span class="label label-black"><strong>Midterm</strong></td>
+            <td><span class="label label-red"><strong>Midterm</strong></span></td>
             <td></td>
         </tr>
         <tr>
             <td style="max-width: 30px;">12</td>
             <td>Dec 9</td>
-            <td>No Lecture (Final Presentations)</td>
-            <td></td>
+            <td>No Lecture (final presentations)</td>
+            <td><span class="label label-green"><strong>Final Project Due</strong></span></td>
             <td></td>
         </tr>
     </tbody>
