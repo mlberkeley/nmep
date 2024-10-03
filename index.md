@@ -68,7 +68,7 @@ Your instructors this semester are Tejas Prabhune and Tim Xie!
             <td>Oct 21</td>
             <td>No Lecture (social!!)</td>
             <td></td>
-            <td>Saathvik</td>
+            <td></td>
         </tr>
         <tr>
             <td style="max-width: 30px;">6</td>
