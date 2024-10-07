@@ -109,7 +109,7 @@ Your instructors this semester are Tejas Prabhune and Tim Xie!
             <td style="max-width: 30px;">11</td>
             <td>Dec 2</td>
             <td>Ethics</td>
-            <td><span class="label label-red"><strong>Midterm</strong></span></td>
+            <td><span class="label label-red"><strong>Final</strong></span></td>
             <td></td>
         </tr>
         <tr>
