@@ -48,9 +48,9 @@ Your instructors this semester are Tejas Prabhune and Tim Xie!
             <td>Oct 7</td>
             <td>Deep Learning, Embeddings</td>
             <td><span class="label label-yellow"><strong>Homework 1</strong></span>
-            Neural Networks Review
-            Intro to Pytorch
-            Word Embeddings
+            <a href="/fa24-nmep/assets/hw1/hw1-review-worksheet.pdf">Neural Networks Review</a>
+            <a href="https://drive.google.com/file/d/1Up6oxVNy7W_htigekfo2uYSslChIcEof/view?usp=drive_link">Intro to Pytorch</a>
+            <a href="https://drive.google.com/drive/folders/1iKE6BhsT00fzy4j2yqUELYKmqEXts6fQ?usp=drive_link">Word Embeddings</a>
             </td>
             <td>Tim</td>
         </tr>
