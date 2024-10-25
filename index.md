@@ -59,9 +59,9 @@ Your instructors this semester are Tejas Prabhune and Tim Xie!
             <td>Oct 14</td>
             <td>CNNs & Object Detection (<a href="https://docs.google.com/presentation/d/1FQ-RNjrANvdVjQIY4LFaHAlm9-hNVxRftKNYj56n2K4/edit?usp=sharing">slides</a>)</td>
             <td><span class="label label-yellow"><strong>Homework 2</strong></span>
-            Homework 2 (Model Zhu)
+            <a href="https://github.com/mlberkeley/fa24-nmep-hw2/">Model Zhu</a>
             </td>
-            <td>Saathvik</td>
+            <td>Tejas</td>
         </tr>
         <tr>
             <td style="max-width: 30px;">5</td>
