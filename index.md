@@ -87,7 +87,7 @@ Your instructors this semester are Tejas Prabhune and Tim Xie!
         <tr>
             <td style="max-width: 30px;">8</td>
             <td>Nov 11</td>
-            <td>Self-supervised Learning</td>
+            <td>Self-supervised Learning (<a href="https://docs.google.com/presentation/d/1hcxTXF2yXWXURFmCh89_vppfc0QtSCkh-YbzUwAGnLg/edit#slide=id.g20a1971abb2_0_1192">slides</a>)</td>
             <td><span class="label label-green"><strong>Final Project Proposal</strong></span></td>
             <td>Tejas</td>
         </tr>
