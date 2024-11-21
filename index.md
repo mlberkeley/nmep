@@ -73,16 +73,16 @@ Your instructors this semester are Tejas Prabhune and Tim Xie!
         <tr>
             <td style="max-width: 30px;">6</td>
             <td>Oct 28</td>
-            <td>NLP & Transformers 1</td>
+            <td>NLP & Transformers 1 (<a href="https://docs.google.com/presentation/d/1fTUTXPFuVr-kULgG36PDJVrSdbRMfSLf_tQGnCGAXUY/edit#slide=id.g2fa7bb19c0a_0_0">slides</a>)</td>
             <td><span class="label label-yellow"><strong>Homework 3</strong></span></td>
-            <td>Chuyi, Sara</td>
+            <td>Sara</td>
         </tr>
         <tr>
             <td style="max-width: 30px;">7</td>
             <td>Nov 4</td>
-            <td>Transformers 2</td>
+            <td>Transformers 2 (<a href="https://docs.google.com/presentation/d/1-qNWqIUD-ld3ijqEhUexp6Usg_ze39hQXXrmdwLc-nI/edit#slide=id.g2fa7bb19c0a_0_0">slides</a>)</td>
             <td></td>
-            <td></td>
+            <td>Derek</td>
         </tr>
         <tr>
             <td style="max-width: 30px;">8</td>
@@ -94,9 +94,9 @@ Your instructors this semester are Tejas Prabhune and Tim Xie!
         <tr>
             <td style="max-width: 30px;">9</td>
             <td>Nov 18</td>
-            <td>RL</td>
+            <td>RL (<a href="https://docs.google.com/presentation/d/1ewH5WvMKY0v0n8izLtlwmAskf5zdIcOftNFbO6uP474/edit?usp=sharing">slides</a>)</td>
             <td></td>
-            <td>Luca</td>
+            <td>Saathvik</td>
         </tr>
         <tr>
             <td style="max-width: 30px;">10</td>
