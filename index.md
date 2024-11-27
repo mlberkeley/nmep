@@ -101,16 +101,16 @@ Your instructors this semester are Tejas Prabhune and Tim Xie!
         <tr>
             <td style="max-width: 30px;">10</td>
             <td>Nov 25</td>
-            <td>GANs, Diffusion</td>
-            <td><span class="label label-green"><strong>Final Project Checkpoint</strong></span></td>
-            <td>Mehdi, Nemer</td>
+            <td>Ethics, Object Detection</td>
+            <td><span class="label label-green"><strong>Final Project Checkpoint</strong></span><br><span class="label"><strong>Extra Exercise</strong></span> <a href="https://colab.research.google.com/drive/1nDIw-Kj3_6bvhXpBW_W_jMuoNvJeBVo9?usp=drive_link">YOLO</a></td>
+            <td>Tim</td>
         </tr>
         <tr>
             <td style="max-width: 30px;">11</td>
             <td>Dec 2</td>
-            <td>Ethics</td>
+            <td>GANs, Diffusion</td>
             <td><span class="label label-red"><strong>Final</strong></span></td>
-            <td></td>
+            <td>TBD</td>
         </tr>
         <tr>
             <td style="max-width: 30px;">12</td>
