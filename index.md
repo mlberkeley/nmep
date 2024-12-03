@@ -113,8 +113,8 @@ Your instructors this semester are Tejas Prabhune and Tim Xie!
             <td>Dec 2</td>
             <td>GANs, Diffusion</td>
             <td><span class="label label-red"><strong>NMEP Final</strong></span>
-                <a href="https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ2OIBta2aWKLomTShrIrXbohnK0j6ERU7zkiJmBsAQrUkBFn2t7we6KJzza3gPvFbhLFP-s44ry">signups 1</a>
-                <a href="https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ2Z09UrGFK02sdKhja3VvnVJCc5hSF_9URqSvP038A9YXuKCpjWyzRioGCd683x6U4bngWZARtS">signups 2</a> (if the other one is full)
+                <a href="https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ2OIBta2aWKLomTShrIrXbohnK0j6ERU7zkiJmBsAQrUkBFn2t7we6KJzza3gPvFbhLFP-s44ry">Signups 1</a>
+                <a href="https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ2Z09UrGFK02sdKhja3VvnVJCc5hSF_9URqSvP038A9YXuKCpjWyzRioGCd683x6U4bngWZARtS">Signups 2</a> (if the other one is full)
                 <br><span class="label"><strong>Lecture Exercise</strong></span> <a href="https://github.com/tejasprabhune/lec10-diffusion">Diffusion</a></td>
             <td>Tejas, Nemer</td>
         </tr>
