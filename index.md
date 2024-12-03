@@ -112,7 +112,9 @@ Your instructors this semester are Tejas Prabhune and Tim Xie!
             <td style="max-width: 30px;">11</td>
             <td>Dec 2</td>
             <td>GANs, Diffusion</td>
-            <td><span class="label label-red"><strong>Final</strong></span><br><span class="label"><strong>Lecture Exercise</strong></span> <a href="https://github.com/tejasprabhune/lec10-diffusion">Diffusion</a></td>
+            <td><span class="label label-red"><strong>NMEP Final</strong></span>
+                <a href="">signups</a>
+                <br><span class="label"><strong>Lecture Exercise</strong></span> <a href="https://github.com/tejasprabhune/lec10-diffusion">Diffusion</a></td>
             <td>Tejas & ???</td>
         </tr>
         <tr>
