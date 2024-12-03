@@ -109,14 +109,14 @@ Your instructors this semester are Tejas Prabhune and Tim Xie!
             <td style="max-width: 30px;">11</td>
             <td>Dec 2</td>
             <td>GANs, Diffusion</td>
-            <td><span class="label label-red"><strong>Final</strong></span></td>
-            <td>TBD</td>
+            <td><span class="label label-red"><strong>Final</strong></span><span class="label"><strong>Lecture Exercise</strong></span> <a href="https://github.com/tejasprabhune/lec10-diffusion">Diffusion</a></span></td>
+            <td>Tejas & ???</td>
         </tr>
         <tr>
             <td style="max-width: 30px;">12</td>
             <td>Dec 9</td>
             <td>No Lecture (final presentations)</td>
-            <td><span class="label label-green"><strong>Final Project Due</strong></span></td>
+            <td><span class="label label-green"><strong>Final Project Due</strong></td>
             <td></td>
         </tr>
     </tbody>
