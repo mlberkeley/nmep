@@ -57,7 +57,7 @@ Your instructors this semester are Tejas Prabhune and Tim Xie!
         <tr>
             <td style="max-width: 30px;">4</td>
             <td>Oct 14</td>
-            <td>CNNs & Object Detection (<a href="https://docs.google.com/presentation/d/1FQ-RNjrANvdVjQIY4LFaHAlm9-hNVxRftKNYj56n2K4/edit?usp=sharing">slides</a>)</td>
+            <td>CNNs <s>& Object Detection</s> (<a href="https://docs.google.com/presentation/d/1FQ-RNjrANvdVjQIY4LFaHAlm9-hNVxRftKNYj56n2K4/edit?usp=sharing">slides</a>)</td>
             <td><span class="label label-yellow"><strong>Homework 2</strong></span>
             <a href="https://github.com/mlberkeley/fa24-nmep-hw2/">Model Zhu</a>
             </td>
@@ -101,7 +101,7 @@ Your instructors this semester are Tejas Prabhune and Tim Xie!
         <tr>
             <td style="max-width: 30px;">10</td>
             <td>Nov 25</td>
-            <td>Ethics, Object Detection</td>
+            <td>Ethics, Object Detection (<a href="https://docs.google.com/presentation/d/1FQ-RNjrANvdVjQIY4LFaHAlm9-hNVxRftKNYj56n2K4/edit?usp=sharing">slides</a>)</td>
             <td><span class="label label-green"><strong>Final Project Checkpoint</strong></span><br><span class="label"><strong>Extra Exercise</strong></span> <a href="https://colab.research.google.com/drive/1nDIw-Kj3_6bvhXpBW_W_jMuoNvJeBVo9?usp=drive_link">YOLO</a></td>
             <td>Tim</td>
         </tr>
