@@ -116,7 +116,7 @@ Your instructors this semester are Tejas Prabhune and Tim Xie!
                 <a href="https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ2OIBta2aWKLomTShrIrXbohnK0j6ERU7zkiJmBsAQrUkBFn2t7we6KJzza3gPvFbhLFP-s44ry">signups 1</a>
                 <a href="https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ2Z09UrGFK02sdKhja3VvnVJCc5hSF_9URqSvP038A9YXuKCpjWyzRioGCd683x6U4bngWZARtS">signups 2</a> (if the other one is full)
                 <br><span class="label"><strong>Lecture Exercise</strong></span> <a href="https://github.com/tejasprabhune/lec10-diffusion">Diffusion</a></td>
-            <td>Tejas, Nemer<td>
+            <td>Tejas, Nemer</td>
         </tr>
         <tr>
             <td style="max-width: 30px;">12</td>
