@@ -74,7 +74,10 @@ Your instructors this semester are Tejas Prabhune and Tim Xie!
             <td style="max-width: 30px;">6</td>
             <td>Oct 28</td>
             <td>NLP & Transformers 1 (<a href="https://docs.google.com/presentation/d/1fTUTXPFuVr-kULgG36PDJVrSdbRMfSLf_tQGnCGAXUY/edit#slide=id.g2fa7bb19c0a_0_0">slides</a>)</td>
-            <td><span class="label label-yellow"><strong>Homework 3</strong></span></td>
+            <td><span class="label label-yellow"><strong>Homework 3</strong></span>
+            <a href="https://github.com/tejasprabhune/hw3-transformers">Transformers</a>
+            <a href="/fa24-nmep/assets/hw3/hw3-worksheet.pdf">Worksheet</a>
+            </td>
             <td>Sara</td>
         </tr>
         <tr>
