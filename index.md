@@ -111,7 +111,7 @@ Your instructors this semester are Tejas Prabhune and Tim Xie!
         <tr>
             <td style="max-width: 30px;">11</td>
             <td>Dec 2</td>
-            <td>GANs, Diffusion</td>
+            <td>GANs (<a href="https://docs.google.com/presentation/d/17QeISP3fi5MZN-n9_-8PKVMe9Q-qrmlwkCOUAXv2LZw/edit?usp=drive_link">slides</a>), Diffusion (<a href="https://docs.google.com/presentation/d/1Dy9_zs4MrgM7w4IY8lrikp_orFUGNYgnwNuhnsGF61o/edit?usp=drive_link">slides</a>)</td>
             <td><span class="label label-red"><strong>NMEP Final</strong></span>
                 <a href="https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ2OIBta2aWKLomTShrIrXbohnK0j6ERU7zkiJmBsAQrUkBFn2t7we6KJzza3gPvFbhLFP-s44ry">Signups 1</a>
                 <a href="https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ2Z09UrGFK02sdKhja3VvnVJCc5hSF_9URqSvP038A9YXuKCpjWyzRioGCd683x6U4bngWZARtS">Signups 2</a> (if the other one is full)
