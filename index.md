@@ -1,6 +1,6 @@
 ---
 title: NMEP Spring 2025
-nav_order: 4
+nav_order: 1
 layout: home
 ---
 
@@ -9,7 +9,7 @@ layout: home
 Welcome everyone!
 In the New Member Education Program (NMEP), we'll be paving a sturdy ML foundation for you—from classical ML to diffusion models. Come hungry to learn and get to know the rest of your class!
 
-Your instructors this semester are Tejas Prabhune and Tim Xie!
+Your instructor this semester is Sara Eginova!
 
 
 ### Schedule
