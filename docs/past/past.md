@@ -6,4 +6,4 @@ layout: home
 
 ## Past Offerings
 
-<a href="/fa24.md">Fall 2024</a>
+<a href="/nmep/docs/past/fa24.md">Fall 2024</a>
