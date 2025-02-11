@@ -30,21 +30,20 @@ Your instructors this semester are [Sardaana Eginova](mailto:eginovasardaana@ber
             <td>Feb 10</td>
             <td>Intro + Background Review
 
-                <!-- (<a href="https://docs.google.com/presentation/d/16QicPaSS0YFcJvTFSn1yea5n_ORVMcbxCHjeDyoQSKg/edit?usp=drive_link">slides</a>) -->
+                (<a href="https://docs.google.com/presentation/d/1zeNGBs78gVnvq84CvT0frsxEzig48B6P9VeMewC6ijE/edit?usp=sharing">slides</a>)
 
             </td>
             
             <td>
-            <!-- <span class="label"><strong>Lecture Exercise</strong></span> <a href="https://drive.google.com/file/d/1UM2w5BrJrEcI69_eqhIn-t1yrdC7XzY9/view?usp=drive_link">Rockfall</a>
+            <span class="label"><strong>Lecture Exercise</strong></span> <a href="https://drive.google.com/file/d/1UM2w5BrJrEcI69_eqhIn-t1yrdC7XzY9/view?usp=drive_link">Rockfall</a>
             <br>
             <span class="label label-yellow"><strong>Homework 0</strong></span>
-            <a href="/fa24-nmep/assets/hw0/hw0-math.pdf">Math Review</a>
-            <a href="/fa24-nmep/assets/hw0/hw0-pandas.ipynb">Pandas</a>
-            <a href="/fa24-nmep/assets/hw0/hw0-numpy.ipynb">Numpy</a> -->
+            <a href="/fa24-nmep/assets/hw1/hw0-pandas.ipynb">Pandas</a>
+            <a href="/fa24-nmep/assets/hw0/hw0-numpy.ipynb">Numpy</a>
             </td>
 
             <td>
-            Sara, Saathvik
+            Saathvik, Sara
             </td>
         </tr>
         <tr>
