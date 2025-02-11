@@ -35,11 +35,11 @@ Your instructors this semester are [Sardaana Eginova](mailto:eginovasardaana@ber
             </td>
             
             <td>
-            <span class="label"><strong>Lecture Exercise</strong></span> <a href="https://drive.google.com/file/d/1UM2w5BrJrEcI69_eqhIn-t1yrdC7XzY9/view?usp=drive_link">Rockfall</a>
+            <span class="label"><strong>Lecture Exercise</strong></span> <a href="https://drive.google.com/file/d/1p_QsJX3d3T3mSeePed0_CDieP39g83Pc/view?usp=drive_link">Rockfall</a>
             <br>
             <span class="label label-yellow"><strong>Homework 0</strong></span>
-            <a href="/fa24-nmep/assets/hw1/hw0-pandas.ipynb">Pandas</a>
-            <a href="/fa24-nmep/assets/hw0/hw0-numpy.ipynb">Numpy</a>
+            <a href="/nmep/assets/hw0/hw0-pandas.ipynb">Pandas</a>
+            <a href="/nmep/assets/hw0/hw0-numpy.ipynb">Numpy</a>
             </td>
 
             <td>
