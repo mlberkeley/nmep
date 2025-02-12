@@ -29,15 +29,16 @@ Your instructors this semester are [Sardaana Eginova](mailto:eginovasardaana@ber
             <td style="max-width: 30px;">1</td>
             <td>Feb 10</td>
             <td>Intro + Background Review
-
                 (<a href="https://docs.google.com/presentation/d/1zeNGBs78gVnvq84CvT0frsxEzig48B6P9VeMewC6ijE/edit?usp=sharing">slides</a>)
-
             </td>
             
             <td>
-            <span class="label"><strong>Lecture Exercise</strong></span> <a href="https://drive.google.com/file/d/1p_QsJX3d3T3mSeePed0_CDieP39g83Pc/view?usp=drive_link">Rockfall</a>
+            <span class="label"><strong>Lecture Exercise</strong></span>
+            <a href="https://drive.google.com/file/d/1p_QsJX3d3T3mSeePed0_CDieP39g83Pc/view?usp=drive_link">Rockfall</a>
+            -
+            <a href="https://drive.google.com/file/d/1r1_Kj7nzAd10DLk9D87AZet81uEnhBIa/view?usp=drive_link">Sol.</a>
             <br>
-            <span class="label label-yellow"><strong>Homework 0</strong></span>
+            <span class="label label-yellow"><strong>Homework 0</strong> (due 2/17)</span>
             <a href="/nmep/assets/hw0/hw0-pandas.ipynb">Pandas</a>
             <a href="/nmep/assets/hw0/hw0-numpy.ipynb">Numpy</a>
             </td>
@@ -51,7 +52,7 @@ Your instructors this semester are [Sardaana Eginova](mailto:eginovasardaana@ber
             <td>Feb 17</td>
             <td>Classical ML</td>
             <td></td>
-            <td></td>
+            <td>Sara, Saathvik</td>
         </tr>
         <tr>
             <td style="max-width: 30px;">3</td>
