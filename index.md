@@ -50,8 +50,13 @@ Your instructors this semester are [Sardaana Eginova](mailto:eginovasardaana@ber
         <tr>
             <td style="max-width: 30px;">2</td>
             <td>Feb 17</td>
-            <td>Classical ML</td>
-            <td></td>
+            <td>Classical ML
+            (<a href="https://docs.google.com/presentation/d/1Mye0PcfKVVq_eeodda9gXvf88z5Ey61r3R6CNfBVGXc/edit?usp=sharing">slides</a>)
+            </td>
+            <td>
+            <span class="label label-yellow"><strong>Homework 1</strong> (due 2/24)</span>
+            <a href="/nmep/assets/hw1/hw1-math.pdf">Math</a>
+            </td>
             <td>Sara, Saathvik</td>
         </tr>
         <tr>
