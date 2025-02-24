@@ -69,7 +69,7 @@ Your instructors this semester are [Sardaana Eginova](mailto:eginovasardaana@ber
                 <span class="label"><strong>Worksheet</strong></span>
                     <a href="/nmep/website/assets/hw2/hw2-review-worksheet.pdf">NNs</a>
                 <span class="label label-yellow"><strong>Homework 2</strong> (due 3/3)</span>
-                    <a href="/nmep/assets/hw2/hw2-intro-pytorch.ipynb">PyTorch</a>
+                    <a href="https://drive.google.com/file/d/19PjHfjENgXNRtdmY3GIA1KPORSL5tTJ6/view?usp=sharing">PyTorch</a>
                     <a href="https://drive.google.com/drive/folders/1DVRrDCCJnCFfxydAt-oGoFv_e2xUOeYk?usp=sharing">Word embeddings</a>
             </td>
             <td>Saathvik, Sara</td>
