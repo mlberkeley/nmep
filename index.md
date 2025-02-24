@@ -62,74 +62,83 @@ Your instructors this semester are [Sardaana Eginova](mailto:eginovasardaana@ber
         <tr>
             <td style="max-width: 30px;">3</td>
             <td>Feb 24</td>
-            <td>Deep Learning</td>
+            <td>Deep Learning (<a href="https://docs.google.com/presentation/d/1Z6k34i9iTDIVwnZeSixB3Hs4RVgQ5Qnh-AivbI8CfSY/edit?usp=sharing">slides</a>)</td>
             <td>
+                <span class="label label-red"><strong>Reading</strong></span>
+                    <a href="https://drive.google.com/file/d/1p_QsJX3d3T3mSeePed0_CDieP39g83Pc/view?usp=drive_link">How to read a paper</a>
+                <span class="label"><strong>Worksheet</strong></span>
+                    <a href="/nmep/website/assets/hw2/hw2-review-worksheet.pdf">NNs</a>
+                <span class="label label-yellow"><strong>Homework 2</strong> (due 3/3)</span>
+                    <a href="/nmep/assets/hw2/hw2-intro-pytorch.ipynb">PyTorch</a>
+                    <a href="https://drive.google.com/drive/folders/1DVRrDCCJnCFfxydAt-oGoFv_e2xUOeYk?usp=sharing">Word embeddings</a>
             </td>
-            <td></td>
+            <td>Saathvik, Sara</td>
         </tr>
         <tr>
             <td style="max-width: 30px;">4</td>
             <td>Mar 3</td>
-            <td>CNNs & Object Detection</td>
+            <td>CNNs</td>
             <td>
             </td>
-            <td></td>
+            <td>Stevie, Saathvik</td>
         </tr>
         <tr>
             <td style="max-width: 30px;">5</td>
             <td>Mar 10</td>
-            <td>No Lecture (social!!)</td>
+            <td>NLP + Transformers I</td>
             <td></td>
-            <td></td>
+            <td>Tejas, Tanmayi</td>
         </tr>
         <tr>
             <td style="max-width: 30px;">6</td>
             <td>Mar 17</td>
-            <td>NLP & Transformers 1</td>
+            <td>Transformers II</td>
             <td>
             </td>
-            <td></td>
+            <td>Bharat, Sara</td>
         </tr>
         <tr>
             <td style="max-width: 30px;">7</td>
             <td>Mar 31</td>
-            <td>Transformers 2</td>
-            <td></td>
+            <td><strong>Midterm</strong></td>
+            <td>
+                <span class="label label-red"><strong>NMEP Midterm</strong></span>
+            </td>
             <td></td>
         </tr>
         <tr>
             <td style="max-width: 30px;">8</td>
             <td>Apr 7</td>
-            <td>Self-supervised Learning</td>
+            <td>SSL + Object Detection</td>
             <td><span class="label label-green"><strong>Final Project Proposal</strong></span></td>
-            <td></td>
+            <td>Eric, Julia</td>
         </tr>
         <tr>
             <td style="max-width: 30px;">9</td>
             <td>Apr 14</td>
             <td>RL</td>
             <td></td>
-            <td></td>
+            <td>Narisam, Tvisha</td>
         </tr>
         <tr>
             <td style="max-width: 30px;">10</td>
             <td>Apr 21</td>
-            <td>GANs, Diffusion</td>
+            <td>GANs + Diffusion</td>
             <td><span class="label label-green"><strong>Final Project Checkpoint</strong></span></td>
-            <td></td>
+            <td>Nasrisam, Adi</td>
         </tr>
         <tr>
             <td style="max-width: 30px;">11</td>
             <td>Apr 28</td>
             <td>Ethics</td>
-            <td><span class="label label-red"><strong>NMEP Final</strong></span>
+            <td>
             </td>
-            <td></td>
+            <td>CK, Srinithi</td>
         </tr>
         <tr>
             <td style="max-width: 30px;">12</td>
             <td>May 5</td>
-            <td>No Lecture (final presentations)</td>
+            <td><strong>Final project presentation</strong></td>
             <td><span class="label label-green"><strong>Final Project Due</strong></span></td>
             <td></td>
         </tr>
