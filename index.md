@@ -65,9 +65,9 @@ Your instructors this semester are [Sardaana Eginova](mailto:eginovasardaana@ber
             <td>Deep Learning (<a href="https://docs.google.com/presentation/d/1Z6k34i9iTDIVwnZeSixB3Hs4RVgQ5Qnh-AivbI8CfSY/edit?usp=sharing">slides</a>)</td>
             <td>
                 <span class="label label-red"><strong>Reading</strong></span>
-                    <a href="https://drive.google.com/file/d/1p_QsJX3d3T3mSeePed0_CDieP39g83Pc/view?usp=drive_link">How to read a paper</a>
+                    <a href="https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf">How to read a paper</a>
                 <span class="label"><strong>Worksheet</strong></span>
-                    <a href="/nmep/website/assets/hw2/wk2-nns-worksheet.pdf">NNs</a>
+                    <a href="/nmep/assets/hw2/wk2-nns-worksheet.pdf">NNs</a>
                 <span class="label label-yellow"><strong>Homework 2</strong> (due 3/3)</span>
                     <a href="https://drive.google.com/file/d/19PjHfjENgXNRtdmY3GIA1KPORSL5tTJ6/view?usp=sharing">PyTorch</a>
                     <a href="https://drive.google.com/drive/folders/1DVRrDCCJnCFfxydAt-oGoFv_e2xUOeYk?usp=sharing">Word embeddings</a>
