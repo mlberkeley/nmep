@@ -77,7 +77,7 @@ Your instructors this semester are [Sardaana Eginova](mailto:eginovasardaana@ber
         <tr>
             <td style="max-width: 30px;">4</td>
             <td>Mar 3</td>
-            <td>CNNs</td>
+            <td>CNNs (<a href="https://docs.google.com/presentation/d/1_JN_QI8Zoz0i2bp0jtmol79kyCygKGcgKkPqstzMHMI/edit?usp=sharing">slides</a>)</td>
             <td>
             </td>
             <td>Stevie, Saathvik</td>
