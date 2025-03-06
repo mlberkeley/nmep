@@ -79,6 +79,8 @@ Your instructors this semester are [Sardaana Eginova](mailto:eginovasardaana@ber
             <td>Mar 3</td>
             <td>CNNs (<a href="https://docs.google.com/presentation/d/1_JN_QI8Zoz0i2bp0jtmol79kyCygKGcgKkPqstzMHMI/edit?usp=sharing">slides</a>)</td>
             <td>
+                <span class="label label-yellow"><strong>Homework 3</strong> (due 3/17)</span>
+                    <a href="https://github.com/mlberkeley/fa24-nmep-hw2/tree/main">Model Zhu</a>
             </td>
             <td>Stevie, Saathvik</td>
         </tr>
