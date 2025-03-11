@@ -87,9 +87,9 @@ Your instructors this semester are [Sardaana Eginova](mailto:eginovasardaana@ber
         <tr>
             <td style="max-width: 30px;">5</td>
             <td>Mar 10</td>
-            <td>NLP + Transformers I</td>
+            <td>NLP + Transformers I (<a href="https://docs.google.com/presentation/d/1KBzxrlhBYDFUqb9GjZGS9Lizz7k4Vhl1CV_Dat9VO8Q/edit?usp=sharing">slides</a>)</td>
             <td></td>
-            <td>Tejas, Tanmayi</td>
+            <td>Tanmayi, Akshay</td>
         </tr>
         <tr>
             <td style="max-width: 30px;">6</td>
