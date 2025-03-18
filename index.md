@@ -94,8 +94,12 @@ Your instructors this semester are [Sardaana Eginova](mailto:eginovasardaana@ber
         <tr>
             <td style="max-width: 30px;">6</td>
             <td>Mar 17</td>
-            <td>Transformers II</td>
+            <td>Transformers II + LLMs (<a href="https://docs.google.com/presentation/d/1SFWDD-veOdSvfprR7oIswyq8oePFlpi_LV4qkgOWLTY/edit?usp=sharing">slides</a>)</td>
             <td>
+                <span class="label"><strong>Worksheet</strong></span>
+                <a href="/nmep/assets/hw4/wk4-worksheet.pdf">Tejasformer</a>
+                <span class="label label-yellow"><strong>Homework 4</strong> (due 3/28)</span>
+                    <a href="https://github.com/tejasprabhune/hw3-transformers">Timformer</a>
             </td>
             <td>Bharat, Sara</td>
         </tr>
@@ -140,7 +144,7 @@ Your instructors this semester are [Sardaana Eginova](mailto:eginovasardaana@ber
         <tr>
             <td style="max-width: 30px;">12</td>
             <td>May 5</td>
-            <td><strong>Final project presentation</strong></td>
+            <td><strong>Final project showcase</strong></td>
             <td><span class="label label-green"><strong>Final Project Due</strong></span></td>
             <td></td>
         </tr>
