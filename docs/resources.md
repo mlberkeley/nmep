@@ -47,6 +47,7 @@ layout: home
 - [Constituency Parsing](https://nlpprogress.com/english/constituency_parsing.html)
 - [Machine Translation Evaluation Metrics](https://aclanthology.org/2023.wmt-1.96.pdf)
 - [Show, Attend, and Tell: Neural Image Caption Generation](https://arxiv.org/abs/1502.03044) (all about visual transformers)
+- [The Annotated Transformer](https://nlp.seas.harvard.edu/annotated-transformer/) (PyTorch code walkthrough!)
 
 ### GANs
 - [Foundational Paper](https://arxiv.org/pdf/1406.2661)
