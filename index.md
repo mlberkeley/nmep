@@ -115,8 +115,8 @@ Your instructors this semester are [Sardaana Eginova](mailto:eginovasardaana@ber
         <tr>
             <td style="max-width: 30px;">8</td>
             <td>Apr 7</td>
-            <td>SSL + Object Detection</td>
-            <td><span class="label label-green"><strong>Final Project Proposal</strong></span></td>
+            <td>SSL + Object Detection (<a href="https://docs.google.com/presentation/d/1JoXaZ-GeteAdxuhKS4H5CS5eb5KA6WI49VbND_8Nok0/edit?usp=sharing">slides</a>)</td>
+            <td><span class="label label-green"><strong>Final Project Proposal</strong></span><a href="https://docs.google.com/presentation/d/1qVPrKayuBtc-hhlxysx2EDdFhOe1ZlrQ511JA7dmIHE/edit?usp=sharing">Spec</a></td>
             <td>Eric, Julia</td>
         </tr>
         <tr>
