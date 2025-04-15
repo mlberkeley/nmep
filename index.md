@@ -122,7 +122,7 @@ Your instructors this semester are [Sardaana Eginova](mailto:eginovasardaana@ber
         <tr>
             <td style="max-width: 30px;">9</td>
             <td>Apr 14</td>
-            <td>RL</td>
+            <td>RL (<a href="https://docs.google.com/presentation/d/1rZE4F0_KxPQxBDdswtRysgQK-wltArxyuXcpsO9GNKA/edit?usp=sharing">slides</a>)</td>
             <td></td>
             <td>Narisam, Tvisha</td>
         </tr>
