@@ -123,15 +123,21 @@ Your instructors this semester are [Sardaana Eginova](mailto:eginovasardaana@ber
             <td style="max-width: 30px;">9</td>
             <td>Apr 14</td>
             <td>RL (<a href="https://docs.google.com/presentation/d/1rZE4F0_KxPQxBDdswtRysgQK-wltArxyuXcpsO9GNKA/edit?usp=sharing">slides</a>)</td>
-            <td></td>
+            <td>
+            <span class="label"><strong>Lecture Exercise</strong></span>
+            <a href="https://colab.research.google.com/drive/1A8OUfUPW4DOSbQ8Ieb1soa_AsPR7IQOy?usp=sharing">Ant PPO</a>
+            </td>
             <td>Narisam, Tvisha</td>
         </tr>
         <tr>
             <td style="max-width: 30px;">10</td>
             <td>Apr 21</td>
-            <td>GANs + Diffusion</td>
-            <td><span class="label label-green"><strong>Final Project Checkpoint</strong></span></td>
-            <td>Nasrisam, Adi</td>
+            <td>GANs + Diffusion (<a href="https://docs.google.com/presentation/d/1bBHv3__R7gFi104FpK9rQm7JeccUzRaZRpnoUBiqOpI/edit?usp=sharing">slides</a>)</td>
+            <td><span class="label label-green"><strong>Final Project Checkpoint</strong></span>
+            <span class="label"><strong>Lecture Exercise</strong></span>
+            <a href="https://github.com/tejasprabhune/lec10-diffusion">U-Net</a>
+            </td>
+            <td>Narisam, Adi</td>
         </tr>
         <tr>
             <td style="max-width: 30px;">11</td>
