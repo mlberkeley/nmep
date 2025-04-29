@@ -142,14 +142,14 @@ Your instructors this semester are [Sardaana Eginova](mailto:eginovasardaana@ber
         <tr>
             <td style="max-width: 30px;">11</td>
             <td>Apr 28</td>
-            <td>Ethics</td>
+            <td>Ethics (<a href="https://docs.google.com/presentation/d/1eMYONH5IaLAkfMW-N-RywokVM6KuwYamlAHNIlsjs14/edit?usp=sharing">slides</a>)</td>
             <td>
             </td>
             <td>CK, Srinithi</td>
         </tr>
         <tr>
             <td style="max-width: 30px;">12</td>
-            <td>May 5</td>
+            <td>May 7</td>
             <td><strong>Final project showcase</strong></td>
             <td><span class="label label-green"><strong>Final Project Due</strong></span></td>
             <td></td>
