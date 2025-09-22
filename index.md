@@ -9,7 +9,7 @@ layout: home
 Welcome everyone!
 In the New Member Education Program (NMEP), we'll be paving a sturdy ML foundation for you—from classical ML to diffusion models. Come hungry to learn and get to know the rest of your class!
 
-Your instructors this semester are [Sardaana Eginova](mailto:eginovasardaana@berkeley.edu) and [Saathvik Selvan](mailto:sselvan@berkeley.edu)!
+Your instructors this semester are [Aaditya Agnihotri](mailto:aaditya_agni@berkeley.edu), [Aditya Ghai](mailto:aditya_ghai@berkeley.edu) and [Tanmayi Dasari](mailto:tanmayi_dasari@berkeley.edu)!
 
 
 ### Schedule
@@ -27,9 +27,9 @@ Your instructors this semester are [Sardaana Eginova](mailto:eginovasardaana@ber
         <tr> <th style="max-width: 30px;">Week</th> <th>Date</th> <th>Lecture</th> <th>Assignments</th> <th>Lecturer(s)</th> </tr>
         <tr>
             <td style="max-width: 30px;">1</td>
-            <td>Feb 10</td>
+            <td>Sep 15</td>
             <td>Intro + Background Review
-                (<a href="https://docs.google.com/presentation/d/1zeNGBs78gVnvq84CvT0frsxEzig48B6P9VeMewC6ijE/edit?usp=sharing">slides</a>)
+                (<a href="https://docs.google.com/presentation/d/1bjh2TxylNo9ICEUp-4cGwDpdBBQUuvf6BmNdUQEF6AY">slides</a>)
             </td>
             
             <td>
@@ -38,26 +38,26 @@ Your instructors this semester are [Sardaana Eginova](mailto:eginovasardaana@ber
             -
             <a href="https://drive.google.com/file/d/1r1_Kj7nzAd10DLk9D87AZet81uEnhBIa/view?usp=drive_link">Sol.</a>
             <br>
-            <span class="label label-yellow"><strong>Homework 0</strong> (due 2/17)</span>
-            <a href="/nmep/assets/hw0/hw0-pandas.ipynb">Pandas</a>
-            <a href="/nmep/assets/hw0/hw0-numpy.ipynb">Numpy</a>
+            <span class="label label-yellow"><strong>Homework 1</strong> (due 9/26)</span>
+            <a href="/nmep/assets/hw1/hw1-numpy.ipynb">PyTorch</a>
+            <a href="/nmep/assets/hw0/hw1-intro-pytorch.ipynb">Numpy</a>
             </td>
 
             <td>
-            Saathvik, Sara
+            Aaditya, Tejas
             </td>
         </tr>
         <tr>
             <td style="max-width: 30px;">2</td>
             <td>Feb 17</td>
             <td>Classical ML
-            (<a href="https://docs.google.com/presentation/d/1Mye0PcfKVVq_eeodda9gXvf88z5Ey61r3R6CNfBVGXc/edit?usp=sharing">slides</a>)
+            (<a href="https://docs.google.com/presentation/d/1K2fFV9_dYichrDxjXkIZ04aJ_cgfNfeIc6JI5hesdQY">slides</a>)
             </td>
             <td>
-            <span class="label label-yellow"><strong>Homework 1</strong> (due 2/24)</span>
+            <span class="label label-yellow"><strong>Homework 1</strong> (due 9/22)</span>
             <a href="/nmep/assets/hw1/hw1-math.pdf">Math</a>
             </td>
-            <td>Sara, Saathvik</td>
+            <td>Aaditya, Aditya, Tanmayi</td>
         </tr>
         <tr>
             <td style="max-width: 30px;">3</td>
