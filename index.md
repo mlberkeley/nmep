@@ -105,7 +105,7 @@ Your instructors this semester are [Aaditya Agnihotri](mailto:aaditya_agni@berke
         </tr>
         <tr>
             <td style="max-width: 30px;">7</td>
-            <td>Oct 27</td>
+            <td>TBD</td>
             <td><strong>Midterm</strong></td>
             <td>
                 <span class="label label-red"><strong>NMEP Midterm</strong></span>
