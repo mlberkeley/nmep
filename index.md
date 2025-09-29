@@ -113,25 +113,8 @@ Your instructors this semester are [Aaditya Agnihotri](mailto:aaditya_agni@berke
             <td>TBD</td>
         </tr>
         <tr>
-            <td style="max-width: 30px;">8</td>
-            <td>Nov 3</td>
-            <td>SSL + Object Detection</td>
-            <td>TBD</td>
-            <td>TBD</td>
-        </tr>
-        <tr>
-            <td style="max-width: 30px;">9</td>
-            <td>Nov 10</td>
-            <td>RL</td>
-            <td>
-            <span class="label"><strong>Lecture Exercise</strong></span>
-            <!-- <a href="https://colab.research.google.com/drive/1A8OUfUPW4DOSbQ8Ieb1soa_AsPR7IQOy?usp=sharing">Ant PPO</a> -->
-            </td>
-            <td>TBD</td>
-        </tr>
-        <tr>
             <td style="max-width: 30px;">10</td>
-            <td>Nov 17</td>
+            <td>Nov 3</td>
             <td>GANs + Diffusion</td>
             <td><span class="label label-green"><strong>Final Project Checkpoint</strong></span>
             <span class="label"><strong>Lecture Exercise</strong></span>
@@ -139,6 +122,24 @@ Your instructors this semester are [Aaditya Agnihotri](mailto:aaditya_agni@berke
             </td>
             <td>TBD</td>
         </tr>
+        <tr>
+            <td style="max-width: 30px;">8</td>
+            <td>Nov 10</td>
+            <td>SSMs + SSL</td>
+            <td>TBD</td>
+            <td>TBD</td>
+        </tr>
+        <tr>
+            <td style="max-width: 30px;">9</td>
+            <td>Nov 17</td>
+            <td>RL</td>
+            <td>
+            <span class="label"><strong>Lecture Exercise</strong></span>
+            <!-- <a href="https://colab.research.google.com/drive/1A8OUfUPW4DOSbQ8Ieb1soa_AsPR7IQOy?usp=sharing">Ant PPO</a> -->
+            </td>
+            <td>TBD</td>
+        </tr>
+
         <tr>
             <td style="max-width: 30px;">11</td>
             <td>Nov 24</td>
