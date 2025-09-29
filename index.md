@@ -116,7 +116,6 @@ Your instructors this semester are [Aaditya Agnihotri](mailto:aaditya_agni@berke
             <td style="max-width: 30px;">10</td>
             <td>Nov 3</td>
             <td>GANs + Diffusion</td>
-            <td><span class="label label-green"><strong>Final Project Checkpoint</strong></span>
             <span class="label"><strong>Lecture Exercise</strong></span>
             <!-- <a href="https://github.com/tejasprabhune/lec10-diffusion">U-Net</a> -->
             </td>
@@ -144,8 +143,7 @@ Your instructors this semester are [Aaditya Agnihotri](mailto:aaditya_agni@berke
             <td style="max-width: 30px;">11</td>
             <td>Nov 24</td>
             <td>AI Safety</td>
-            <td>
-            </td>
+            <td><span class="label label-green"><strong>Final Project Checkpoint</strong></span>
             <td>TBD</td>
         </tr>
         <tr>
