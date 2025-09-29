@@ -144,8 +144,6 @@ Your instructors this semester are [Aaditya Agnihotri](mailto:aaditya_agni@berke
             <td>Nov 24</td>
             <td>AI Safety</td>
             <td><span class="label label-green"><strong>Final Project Checkpoint</strong></span>
-            <td>
-            </td>
             <td>TBD</td>
         </tr>
         <tr>
