@@ -54,7 +54,7 @@ Your instructors this semester are [Aaditya Agnihotri](mailto:aaditya_agni@berke
             (<a href="https://docs.google.com/presentation/d/1K2fFV9_dYichrDxjXkIZ04aJ_cgfNfeIc6JI5hesdQY">slides</a>)
             </td>
             <td>
-            <span class="label label-yellow"><strong>Homework 1</strong> (due 9/22)</span>
+            <span class="label label-yellow"><strong>Homework 1</strong> (due 9/26)</span>
             <a href="/nmep/assets/hw1/hw1-math.pdf">Math</a>
             </td>
             <td>Aaditya, Aditya, Tanmayi</td>
@@ -116,6 +116,7 @@ Your instructors this semester are [Aaditya Agnihotri](mailto:aaditya_agni@berke
             <td style="max-width: 30px;">10</td>
             <td>Nov 3</td>
             <td>GANs + Diffusion</td>
+            <td>
             <span class="label"><strong>Lecture Exercise</strong></span>
             <!-- <a href="https://github.com/tejasprabhune/lec10-diffusion">U-Net</a> -->
             </td>
@@ -143,7 +144,7 @@ Your instructors this semester are [Aaditya Agnihotri](mailto:aaditya_agni@berke
             <td style="max-width: 30px;">11</td>
             <td>Nov 24</td>
             <td>AI Safety</td>
-            <td><span class="label label-green"><strong>Final Project Checkpoint</strong></span>
+            <td><span class="label label-green"><strong>Final Project Checkpoint</strong></span></td>
             <td>TBD</td>
         </tr>
         <tr>
