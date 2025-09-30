@@ -68,7 +68,7 @@ Your instructors this semester are [Aaditya Agnihotri](mailto:aaditya_agni@berke
                     <a href="https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf">How to read a paper</a>
                 <!-- <span class="label"><strong>Worksheet</strong></span>
                     <a href="/nmep/assets/hw2/wk2-nns-worksheet.pdf">NNs</a> -->
-                <span class="label label-yellow"><strong>Homework 2</strong> (due 3/3)</span>
+                <span class="label label-yellow"><strong>Homework 2</strong> (due 10/6)</span>
                     <a href="https://drive.google.com/drive/folders/1DVRrDCCJnCFfxydAt-oGoFv_e2xUOeYk?usp=sharing">Word Embeddings</a>
             </td>
             <td>Aaditya, Aditya, Tanmayi</td>
