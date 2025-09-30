@@ -62,17 +62,16 @@ Your instructors this semester are [Aaditya Agnihotri](mailto:aaditya_agni@berke
         <tr>
             <td style="max-width: 30px;">3</td>
             <td>Sep 29</td>
-            <td>Deep Learning</td>
+            <td>Deep Learning (<a href="https://docs.google.com/presentation/d/14RE7f7HXmqpzRjGxOvJunsJ-vnWSvi7ENvag4pGrW1c/">slides</a>)</td>
             <td>
                 <span class="label label-red"><strong>Reading</strong></span>
                     <a href="https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf">How to read a paper</a>
                 <!-- <span class="label"><strong>Worksheet</strong></span>
                     <a href="/nmep/assets/hw2/wk2-nns-worksheet.pdf">NNs</a> -->
-                <!-- <span class="label label-yellow"><strong>Homework 2</strong> (due 3/3)</span>
-                    <a href="https://drive.google.com/file/d/19PjHfjENgXNRtdmY3GIA1KPORSL5tTJ6/view?usp=sharing">PyTorch</a>
-                    <a href="https://drive.google.com/drive/folders/1DVRrDCCJnCFfxydAt-oGoFv_e2xUOeYk?usp=sharing">Word embeddings</a> -->
+                <span class="label label-yellow"><strong>Homework 2</strong> (due 3/3)</span>
+                    <a href="https://drive.google.com/drive/folders/1DVRrDCCJnCFfxydAt-oGoFv_e2xUOeYk?usp=sharing">Word Embeddings</a>
             </td>
-            <td>Aditya, Tanmayi</td>
+            <td>Aaditya, Aditya, Tanmayi</td>
         </tr>
         <tr>
             <td style="max-width: 30px;">4</td>
