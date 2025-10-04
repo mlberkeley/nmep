@@ -4,7 +4,11 @@ nav_order: 3
 layout: home
 ---
 
-### [Server Form](https://forms.gle/zybsuJ7CwQCXeHni6)
+### Using Honeydew
+
+[Server Setup and Guidelines](https://docs.google.com/document/d/1nA84yiyJIWtcYL9GPij4-QeFM2yLPkTzmWx3dbc_tFQ/edit?tab=t.0)
+
+[Server Form](https://forms.gle/zybsuJ7CwQCXeHni6)
 
 ### Week 1: Background Review (Math)
 - [Princeton NEU 314](http://pillowlab.princeton.edu/teaching/mathtools16/slides/lec10_LeastSquaresRegression.pdf) Sections 1 through 2.1 (Least squares with vector calculus)
