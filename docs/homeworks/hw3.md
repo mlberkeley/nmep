@@ -201,7 +201,7 @@ Visualize a couple of the predictions on the validation set (20 or so). Be sure 
 `WRITTEN ANSWER HERE`
 
 
-### Part 2.4 - Kaggle submission
+## 2.4 - Kaggle submission
 
 To make this more fun, we have scraped an entire new dataset for you! 🎉
 
