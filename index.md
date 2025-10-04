@@ -69,7 +69,7 @@ Your instructors this semester are [Aaditya Agnihotri](mailto:aaditya_agni@berke
                 <!-- <span class="label"><strong>Worksheet</strong></span>
                     <a href="/nmep/assets/hw2/wk2-nns-worksheet.pdf">NNs</a> -->
                 <span class="label label-yellow"><strong>Homework 2</strong> (due 10/6)</span>
-                    <a href="https://drive.google.com/drive/folders/18KG8Xdy6muT39SRDLx2b4BTQhyCnknXN">Word Embeddings</a>
+                    <a href="https://drive.google.com/drive/folders/1fSEXCMcF8t8U4UCQDlkncTFR5b72KhPs">Word Embeddings</a>
             </td>
             <td>Aaditya, Aditya, Tanmayi</td>
         </tr>
