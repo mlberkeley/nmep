@@ -139,7 +139,7 @@ Report training and validation accuracy on AlexNet and LeNet. Report hyperparame
 
 
 
-# 2.2: Weights and Biases
+## 2.2: Weights and Biases
 
 Parts 2 and 3 are independent. Feel free to attempt them in any order you want.
 
@@ -147,61 +147,61 @@ Parts 2 and 3 are independent. Feel free to attempt them in any order you want.
 > 
 > For this HW you have to use W&B. The next couple parts should be fairly easy if you setup logging for configs (hyperparameters) and for loss/accuracy. For a quick tutorial on how to use it, check out [this quickstart](https://docs.wandb.ai/quickstart). We will also cover it at HW party at some point this week if you need help.
 
-## 2.2.0 
+### 2.2.0 
 Setup plotting for training and validation accuracy and loss curves. Plot a point every epoch.
 
 `PUSH YOUR CODE TO YOUR OWN GITHUB :)`
 
-## 2.2.1 
+### 2.2.1 
 Plot the training and validation accuracy and loss curves for AlexNet and LeNet. Attach the plot and any observations you have.
 
 `WRITTEN ANSWER HERE`
 
-## 2.2.2
+### 2.2.2
 For just AlexNet, vary the learning rate by factors of 3ish or 10 (ie if it's 3e-4 also try 1e-4, 1e-3, 3e-3, etc) and plot all the loss plots on the same graph. What do you observe? What is the best learning rate? Try at least 4 different learning rates.
 
 `WRITTEN ANSWER HERE`
 
-## 2.2.3
+### 2.2.3
 Do the same with batch size, keeping learning rate and everything else fixed. Ideally the batch size should be a power of 2, but try some odd batch sizes as well. What do you observe? Record training times and loss/accuracy plots for each batch size (should be easy with W&B). Try at least 4 different batch sizes.
 
 `WRITTEN ANSWER HERE`
 
-## 2.2.4 
+### 2.2.4 
 As a followup to the previous question, we're going to explore the effect of batch size on _throughput_, which is the number of images/sec that our model can process. You can find this by taking the batch size and dividing by the time per epoch. Plot the throughput for batch sizes of powers of 2, i.e. 1, 2, 4, ..., until you reach CUDA OOM. What is the largest batch size you can support? What trends do you observe, and why might this be the case?
 You only need to observe the training for ~ 5 epochs to average out the noise in training times; don't train to completion for this question! We're only asking about the time taken. If you're curious for a more in-depth explanation, feel free to read [this intro](https://horace.io/brrr_intro.html). 
 
 `WRITTEN ANSWER HERE`
 
-## 2.2.5 
+### 2.2.5 
 Try different data augmentations. Take a look [here](https://pytorch.org/vision/stable/transforms.html) for torchvision augmentations. Try at least 2 new augmentation schemes. Record loss/accuracy curves and best accuracies on validation/train set.
 
 `WRITTEN ANSWER HERE`
 
-## 2.2.6 (optional) 
+### 2.2.6 (optional) 
 Play around with more hyperparameters. I recommend playing around with the optimizer (Adam, SGD, RMSProp, etc), learning rate scheduler (constant, StepLR, ReduceLROnPlateau, etc), weight decay, dropout, activation functions (ReLU, Leaky ReLU, GELU, Swish, etc), etc.
 
 `WRITTEN ANSWER HERE`
 
 
 
-# 2.3: ResNet
+## 2.3: ResNet
 
-## 2.3.1
+### 2.3.1
 **Implement and train ResNet18**
 
 In the `models/*` directory, we provided some skelly/guiding comments to implement ResNet. Implement it and train it on CIFAR10. Report training and validation curves, hyperparameters, best validation accuracy, and training time as compared to AlexNet. 
 
 `WRITTEN ANSWER HERE`
 
-## 2.3.2 (optional) 
+### 2.3.2 (optional) 
 
 Visualize a couple of the predictions on the validation set (20 or so). Be sure to include the ground truth label and the predicted label. You can use `wandb.log()` to log images or also just save them to disc any way you think is easy.
 
 `WRITTEN ANSWER HERE`
 
 
-# Part 2.4 - Kaggle submission
+### Part 2.4 - Kaggle submission
 
 To make this more fun, we have scraped an entire new dataset for you! 🎉
 
@@ -215,7 +215,7 @@ Your Kaggle scores should approximately match your validation scores. If they do
 
 (Soon) when you run the training script, it will output a file called `submission.csv`. This is the file you need to submit to Kaggle. You're required to submit at least once. 
 
-## Kaggle writeup
+### Kaggle writeup
 
 We don't expect anything fancy here. Just a brief summary of what you did, what worked, what didn't, and what you learned. If you want to include any plots, feel free to do so. That's brownie points. Feel free to write it below or attach it in a separate file.
 
