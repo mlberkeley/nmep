@@ -19,8 +19,8 @@ If you haven't already, create a new SSH key for your computer using [these dire
 
 Now that you have an SSH key, we need to register this key with GitHub so that their servers can recognize your computer and give you the appropriate access. Usually, you can find your public key at `~/.ssh/id_ed25519.pub`, but this can depend on how you created the SSH key and your operating system. For more specific information, check [this site](docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account). Now, in GitHub settings, you should be able to paste this public key to register your device. 
 
-After you complete these steps, you should be able to clone repositories using the recommended SSH link.
+After you complete these steps, you should be able to clone repositories using the recommended SSH link. You can check that SSH is correctly set up with the command `ssh -T git@github.com`.
 
 ## Extra Information
 
-- Berkeley's very own CS 61B has excellent documentation behind Git and its features. We highly recommend taking a look at it [here](https://sp25.datastructur.es/resources/guides/git/). 
+- Berkeley's very own CS 61B has excellent documentation behind Git and its features. It shows good practice on how to push code, use branches, and more. We highly recommend taking a look at it [here](https://sp25.datastructur.es/resources/guides/git/). 

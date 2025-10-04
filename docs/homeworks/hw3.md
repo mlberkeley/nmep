@@ -1,5 +1,5 @@
 ---
-title: Homework 3: Model Zhu
+title: Homework 3
 parent: Homeworks
 nav_order: 2
 layout: home
