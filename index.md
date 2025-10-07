@@ -77,9 +77,9 @@ Your instructors this semester are [Aaditya Agnihotri](mailto:aaditya_agni@berke
             <td style="max-width: 30px;">4</td>
             <td>Oct 6</td>
             <td>Computer Vision</td>
-            <span class="label"><strong>Lecture Exercise</strong></span>
-            <a href="https://colab.research.google.com/drive/1aBFBPwhhulkr8n2eRkGygPJsrTekXNk6?usp=sharing">YOLO</a>
             <td>
+                <span class="label"><strong>Lecture Exercise</strong></span>
+                <a href="https://colab.research.google.com/drive/1aBFBPwhhulkr8n2eRkGygPJsrTekXNk6?usp=sharing">YOLO</a>
                 <!-- <span class="label label-yellow"><strong>Homework 3</strong> (due 3/17)</span>
                     <a href="https://github.com/mlberkeley/fa24-nmep-hw2/tree/main">Model Zhu</a> -->
             </td>
