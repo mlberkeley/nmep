@@ -9,17 +9,17 @@ layout: home
 
 In this homework, you will be implementing a few popular computer vision models, and training them on both CIFAR-10 and on a custom dataset we created. You will be using PyTorch for this homework.
 
-You will be using a medium-sized repository which mimics that of a standard codebase which you might find for modern projects. Don't be intimidated! We will walk you through all of the parts of it, and hopefully after this homework you will be more confident working with codebases like this. We believe this is a realistic representation of what you may do in the future, and we hope you will find it useful.
+You will be using a medium-sized [repository](https://github.com/mlberkeley/fa25-nmep-hw3/) which mimics that of a standard codebase which you might find for modern projects. Don't be intimidated! We will walk you through all of the parts of it, and hopefully after this homework you will be more confident working with codebases like this. We believe this is a realistic representation of what you may do in the future, and we hope you will find it useful.
 
 We would recommend you first set up the repository ASAP on honeydew and try running it out of the box to see how it trains, and only afterwards focus on understanding all parts of the code. For your benefit, the codebase works out of the box, and you should be able to train a model on CIFAR-10 with no changes. Throughout the assignment, you will need to make some changes to models/alexnet.py and models/resnet.py, for which you will find the provided implementations of other models in models/ to be helpful.
 
-All of the assignment details are provided in WORKSHEET.md - you will need to fill in some answers and make code changes. We recommend getting through this README.md file first and then doing the worksheet.
+All of the assignment details are provided in this spec, you will need to fill in some answers on Gradescope and make code changes. 
 
 Best of luck, and we hope you enjoy it!
 
 ## Setup 
 
-To get started, you will need to fork and clone the repository (clone on honeydew!) and install the dependencies, preferably in a conda environment. Standard instructions are provided below.
+To get started, you will need to fork and clone [the repository](https://github.com/mlberkeley/fa25-nmep-hw3/) (clone on honeydew!) and install the dependencies, preferably in a conda or uv environment. Standard instructions are provided below.
 
 ```bash
 ssh honeydew
@@ -119,7 +119,7 @@ Linear with 4096 output units
 Linear with num_classes output units
 ```
 
-> ReLU activation after every Conv and Linear layer. DO **NOT** Forget to add activatioons after every layer. Do not apply activation after the last layer.
+> ReLU activation after every Conv and Linear layer. DO **NOT** Forget to add activations after every layer. Do not apply activation after the last layer.
 
 ### 2.1.1 
 How many parameters does AlexNet have? How does it compare to LeNet? With the same batch size, how much memory do LeNet and AlexNet take up while training? 
