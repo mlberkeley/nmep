@@ -76,7 +76,7 @@ Your instructors this semester are [Aaditya Agnihotri](mailto:aaditya_agni@berke
         <tr>
             <td style="max-width: 30px;">4</td>
             <td>Oct 6</td>
-            <td>Computer Vision (<a href"https://docs.google.com/presentation/d/15xuS2jh0KqBKpTMyNwb-DhgsvEER2-A8IFNwBd6RzZE/edit?usp=sharing">slides</a>)</td>
+            <td>Computer Vision (<a href="https://docs.google.com/presentation/d/15xuS2jh0KqBKpTMyNwb-DhgsvEER2-A8IFNwBd6RzZE/edit?usp=sharing">slides</a>)</td>
             <td>
                 <span class="label"><strong>Lecture Exercise</strong></span>
                 <a href="https://colab.research.google.com/drive/1aBFBPwhhulkr8n2eRkGygPJsrTekXNk6?usp=sharing">YOLO</a>
