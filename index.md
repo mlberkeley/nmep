@@ -95,7 +95,7 @@ Your instructors this semester are [Aaditya Agnihotri](mailto:aaditya_agni@berke
         <tr>
             <td style="max-width: 30px;">6</td>
             <td>Oct 20</td>
-            <td>Transformers II + LLMs </td>
+            <td>Transformers II + LLMs (<a href="https://docs.google.com/presentation/d/11Cg3YT4JDLdou8v18p7sruhxOvNXnLt8swQL5sEkf2E/edit?usp=sharing">slides</a>) </td>
             <td>
                 <!-- <span class="label"><strong>Worksheet</strong></span>
                 <a href="/nmep/assets/hw4/wk4-worksheet.pdf">Tejasformer</a>
