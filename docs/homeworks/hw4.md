@@ -448,7 +448,7 @@ Subtasks:
 After this step, run:
 
 ```bash
-python -m unittest tests/transformer/test_encoder.py
+python -m unittest tests/test_transformer/test_encoder.py
 ```
 
 You should be passing all these tests (these are purely sanity checks, not correctness checks, which will come during training).
