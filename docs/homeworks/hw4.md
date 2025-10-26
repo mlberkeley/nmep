@@ -72,7 +72,7 @@ architecture conceptually in depth, but we'll leave it up to you on how you will
 ## Scaffolding
 
 To get started with the scaffolding, you should:
-1. **Fork** the [repository](https://github.com/mlberkeley/fa25-nmep-hw5) (click the "Fork" button 
+1. **Fork** the [repository](https://github.com/mlberkeley/fa25-nmep-hw4) (click the "Fork" button 
     at the top right of the GitHub page).
 2. Add your partner's GitHub account as a collaborator. In your forked repository, go to 
     Settings $$\to$$ Collaborators and teams $$\to$$ Add people.
