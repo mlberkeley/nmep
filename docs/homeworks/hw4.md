@@ -80,8 +80,8 @@ To get started with the scaffolding, you should:
 
     ```bash
     ssh honeydew
-    git clone git@github.com:[your-username]/fa25-nmep-hw5.git
-    cd fa25-nmep-hw5
+    git clone git@github.com:[your-username]/fa25-nmep-hw4.git
+    cd fa25-nmep-hw4
     ```
 
     You can either choose to work in an editor like VS Code that supports SSH or
@@ -107,7 +107,7 @@ To get started with the scaffolding, you should:
     paired French-English sentences.
 
     ```bash
-    # make sure you're in the fa25-nmep-hw5/ directory
+    # make sure you're in the fa25-nmep-hw4/ directory
     curl -L https://www.statmt.org/europarl/v7/fr-en.tgz --output data/nmt/fr-en.tgz # nmt stands for neural machine translation
     mkdir data/nmt/europarl
     tar -xvf data/nmt/fr-en.tgz -C data/nmt/europarl/
@@ -126,6 +126,21 @@ To get started with the scaffolding, you should:
     You'll see many `.txt` files. Each contains a screenplay from a famous movie from [IMSDB](https://imsdb.com/).
     Since there isn't too much data here, our trained LM won't be very coherent, but will eventually output something
     looking vaguely similar to these screenplays.
+
+### Fetching updates from the source GitHub repository
+
+We might run into some bugs during the homework! When we push changes to the original
+homework, you need a way to merge these changes into your forked repository. Here's how
+you should set this up:
+
+```bash
+git remote add upstream https://github.com/mlberkeley/fa25-nmep-hw4.git
+git fetch upstream
+git merge upstream/main
+```
+
+Every time you need to merge changes from the original repo, you should run
+the last two commands again!
 
 ## Structure
 
@@ -185,7 +200,7 @@ implementation is correct, but can provide some information about
 whether your shapes are at least lining up. Run all tests with:
 
 ```bash
-cd fa25-nmep-hw5 # make sure your uv venv is activated
+cd fa25-nmep-hw4 # make sure your uv venv is activated
 python -m unittest discover tests
 ```
 
@@ -257,7 +272,7 @@ Your subtasks are:
 
 After implementing your tokenizer, test with:
 ```bash
-python -m unittest tests/tokenizer/test_character_tokenizer.py
+python -m unittest tests/test_tokenizer/test_character_tokenizer.py
 ```
 
 ## Byte-Pair Encoding (BPE)
