@@ -441,11 +441,17 @@ You should be passing all these tests (these are purely sanity checks, not corre
 Shape progress:
 
 $$
-\text{Tokenize: }\text{input text} \to (B, T)\\
-\text{Token Embeddings: } (B, T) \to (B, T, C)\\
-\text{Encoder: } (B, T, C) \to (B, T, C)
+\text{Tokenize: }\text{input French text} \to (B, T_\text{enc})\\
+\text{Token Embeddings: } (B, T_\text{enc}) \to (B, T_\text{enc}, C)\\
+\text{Encoder: } (B, T_\text{enc}, C) \to (B, T_\text{enc}, C)
 $$
 
+For your reference, here are the Encoder and Attention figures from the original 
+[Attention Is All You Need](https://arxiv.org/pdf/1706.03762) paper:
+
+<div>
+<img src="hw4-assets/encoder.webp" alt="MHA Attention" width="1000" />
+</div>
 
 ## Decoder
 
@@ -543,6 +549,23 @@ python -m unittest tests/transformer/test_decoder.py
 
 You should be passing all these tests. Once this is done, you have a full `Transformer`! We've implemented
 the joining of the `Encoder` and `Decoder` for you in `seq2seq/transformer/transformer.py` (take a look!).
+
+$$
+\text{Tokenize: }\text{input French text (source)} \to (B, T_\text{enc})\\
+\text{Token Embeddings: } (B, T_\text{enc}) \to (B, T_\text{enc}, C)\\
+\text{Encoder: } (B, T_\text{enc}, C) \to (B, T_\text{enc}, C)\\[2em]
+\text{Tokenize: }\text{input English text (target)} \to (B, T_\text{dec})\\
+\text{Token Embeddings: } (B, T_\text{dec}) \to (B, T_\text{dec}, C)\\
+\text{Decoder Masked Self-Attention: } (B, T_\text{dec}, C) \to (B, T_\text{dec}, C)\\
+\text{Decoder Cross-Attention: } (B, T_\text{enc}, C) + (B, T_\text{dec}, C) \to (B, T_\text{dec}, C)\\
+$$
+
+Here is the full Transformer architecture now (including the Decoder) for your reference
+(from [Attention Is All You Need](https://arxiv.org/pdf/1706.03762) paper):
+
+<div>
+<img src="hw4-assets/transformer-full.webp" alt="Cross-Attention" width="600" />
+</div>
 
 # Training
 
