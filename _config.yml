@@ -7,3 +7,4 @@ url: https://mlberkeley.github.io
 nav_enabled: true
 
 color_scheme: wider
+math: katex
