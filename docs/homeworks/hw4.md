@@ -549,8 +549,11 @@ Subtasks:
    a `tgt_mask` and a `src_mask` here. `tgt_mask` has both the causal mask and the pad mask applied
    for the English input into the Decoder. `src_mask` has the pad mask applied to it.
 
-       You'll need to think about where to input the `src_mask` vs the `tgt_mask` (hint: the only function
-       that actually deploys any masks is the `scaled_dot_product_attention` function)
+        You'll need to think about where to input the `src_mask` vs the `tgt_mask` (hint: the only function
+        that actually deploys any masks is the `scaled_dot_product_attention` function)
+
+        Remember that our LM task will be decoder-only, so we don't want to do cross-attention in this case. 
+        When `enc_x` is `None`, make sure to skip the cross-attention step in your `DecoderLayer`.
 
    * Implement `Decoder`. This will be a `ModuleList` of your `DecoderLayer`s, just like in the `Encoder`. 
    It will also need to handle the target embeddings and positional encoding. 
@@ -601,6 +604,12 @@ Fill in the `TODO` sections in `scripts/train_nmt.py`.
 We've implemented the LM training script for you! Just add the same line
 that you added in the NMT task in the `TODO` line in
 `scripts/train_lm.py`.
+
+## Tracking experiments
+
+We've added simple `wandb` logging to your training scripts.
+Make sure to fill in your entity names in both scripts to track
+your experiments!
 
 ## Start training!
 
