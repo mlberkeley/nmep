@@ -359,7 +359,7 @@ Word to embed: “hello”
 ## `nn.Embedding` Simplification
 
 If we look closely at the matrix multiplication, we can notice that for each token, 
-the “multiplication” is just choosing the column in W corresponding to that token!
+the “multiplication” is just choosing the row in W corresponding to that token!
 
 So, this “linear transformation” is just a lookup table, where we have 
 $$V$$ vectors (V being the vocab size), and we look up the vector for each token and pile them together in a $$T \times C$$ matrix. 
