@@ -128,7 +128,7 @@ Your instructors this semester are [Aaditya Agnihotri](mailto:aaditya_agni@berke
         <tr>
             <td style="max-width: 30px;">10</td>
             <td>Nov 3</td>
-            <td>State Space Models and Self-Supervised Learning</td>
+            <td>State Space Models and Self-Supervised Learning(<a href="https://docs.google.com/presentation/d/1_whj4gntfZ35t_3uzTJLfMXKF7DJouAzeMIdG_iQPGM/edit?usp=sharing">slides</a>)</td>
             <td>
             <span class="label"><strong>Lecture Exercise</strong></span>
             <!-- <a href="https://github.com/tejasprabhune/lec10-diffusion">U-Net</a> -->
@@ -138,7 +138,7 @@ Your instructors this semester are [Aaditya Agnihotri](mailto:aaditya_agni@berke
         <tr>
             <td style="max-width: 30px;">8</td>
             <td>Nov 10</td>
-            <td>GANs and Diffusion</td>
+            <td>GANs and Diffusion(<a href="https://docs.google.com/presentation/d/1EK1BM6dbD8GslEg218Qfz579cg_KcQC6T91pF4lhjx4/edit?usp=sharing">slides</a>)</td>
             <td>
                 <span class="label label-yellow"><strong>Homework 5 Part 1</strong> (due Nov 17)</span>
                 <a href="https://colab.research.google.com/drive/1FPC6aq6oye9VMVNYb837pCwj3Bv9zsBy?usp=sharing">U-Nets and Diffusion!</a>
@@ -148,7 +148,7 @@ Your instructors this semester are [Aaditya Agnihotri](mailto:aaditya_agni@berke
         <tr>
             <td style="max-width: 30px;">9</td>
             <td>Nov 17</td>
-            <td>RL</td>
+            <td>RL(<a href="https://docs.google.com/presentation/d/1NU4cYmHmOZGF3L_j78qVQ1LKqcu7dk7dtSzio1kn0iA/edit?usp=sharing">slides</a>)</td>
             <td>
             <!--<span class="label">
             <strong>Lecture Exercise</strong>
