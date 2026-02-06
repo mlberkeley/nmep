@@ -103,7 +103,7 @@ Your instructor this semester is Surya Krishnapillai!
             <td>Apr 6</td>
             <td>Generative Models</td>
             <td></td>
-            <td>Surya</td>
+            <td>Tejas</td>
         </tr>
         <tr>
             <td style="max-width: 30px;">10</td>
