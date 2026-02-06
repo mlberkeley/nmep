@@ -29,16 +29,15 @@ Your instructor this semester is Surya Krishnapillai!
             <td style="max-width: 30px;">1</td>
             <td>Feb 9</td>
             <td>Introduction + Math Review
-                (<a href="https://docs.google.com/presentation/d/1bjh2TxylNo9ICEUp-4cGwDpdBBQUuvf6BmNdUQEF6AY">slides</a>)
+                (<a href="https://docs.google.com/presentation/d/1yi3AZ3YLPT01SFb6F8Z3WgTBsCUL7kzxPe4WOdaQmDk/edit?usp=sharing">slides</a>)
             </td>
             
             <td>
             <span class="label"><strong>Lecture Exercise</strong></span>
             <a href="https://drive.google.com/file/d/1p_QsJX3d3T3mSeePed0_CDieP39g83Pc/view?usp=drive_link">Rockfall</a>
-            -
-            <a href="https://drive.google.com/file/d/1r1_Kj7nzAd10DLk9D87AZet81uEnhBIa/view?usp=drive_link">Sol.</a>
             <br>
-            <span class="label label-yellow"><strong>Homework 1</strong> (due 9/26)</span>
+            <span class="label label-yellow"><strong>Homework 1</strong> (due Feb 23)</span>
+            <a href="/nmep/assets/hw1/hw1-math.pdf">Math</a>
             <a href="/nmep/assets/hw1/hw1-numpy.ipynb">Numpy</a>
             <a href="/nmep/assets/hw1/hw1-intro-pytorch.ipynb">Pytorch</a>
             </td>
