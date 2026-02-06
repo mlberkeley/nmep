@@ -91,21 +91,21 @@ Your instructor this semester is Surya Krishnapillai!
             <td></td>
         </tr>
         <tr>
-            <td style="max-width: 30px;">10</td>
+            <td style="max-width: 30px;">8</td>
             <td>March 30</td>
             <td>TBD</td>
             <td></td>
             <td>TBD</td>
         </tr>
         <tr>
-            <td style="max-width: 30px;">8</td>
+            <td style="max-width: 30px;">9</td>
             <td>Apr 6</td>
             <td>Generative Models</td>
             <td></td>
             <td>Surya</td>
         </tr>
         <tr>
-            <td style="max-width: 30px;">9</td>
+            <td style="max-width: 30px;">10</td>
             <td>Apr 13</td>
             <td>Reinforcement Learning</td>
             <td></td>

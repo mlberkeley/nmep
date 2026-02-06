@@ -7,7 +7,7 @@ layout: home
 ## Policies
 
 ### Lectures
-Lectures are on Mondays, 8-10 pm @ AAPB 115, except common midterms (CS61ABC, 70, etc.) and holidays.
+Lectures are on Mondays, 8-10 pm @ AAPB 160, except common midterms (CS61ABC, 70, etc.) and holidays.
 
 ### Attendance
 Attendance is mandatory. If you absolutely cannot make it to lecture, please DM any of the leads
@@ -17,9 +17,7 @@ Note that there is lecture quizzes due each week on Gradescope (join code: 5RGD3
 ### Homeworks
 Throughout the semester, we'll be releasing homeworks that accompany lectures. To subvert limitless extensions, we'll be implementing a hard extension policy requiring you to turn in homework **at most 4 days after the deadline**. This policy is for your benefit and will help you keep pace with the course!
 
-We'll also be hosting weekly **homework parties** so you can ask questions and work with your fellow new members on the homework. 
-
-Homework parties are Sundays, 6pm-8pm @ BWW Floor 3.
+We'll also be hosting weekly **homework parties** so you can ask questions and work with your fellow new members on the homework.
 
 ### Paper presentations
 Starting from week 4, a group of two will present a given paper each week at the start of the lecture.
