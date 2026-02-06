@@ -38,8 +38,9 @@ Your instructor this semester is Surya Krishnapillai!
             <br>
             <span class="label label-yellow"><strong>Homework 1</strong> (due Feb 23)</span>
             <a href="/nmep/assets/hw1/hw1-math.pdf">Math</a>
-            <a href="/nmep/assets/hw1/hw1-numpy.ipynb">Numpy</a>
-            <a href="/nmep/assets/hw1/hw1-intro-pytorch.ipynb">Pytorch</a>
+            <a href="/nmep/assets/hw1/hw1-numpy.ipynb">NumPy</a>
+            <a href="/nmep/assets/hw1/hw1-pandas.ipynb">Pandas</a>
+            <a href="/nmep/assets/hw1/hw1-intro-pytorch.ipynb">PyTorch</a>
             </td>
 
             <td>
@@ -49,7 +50,7 @@ Your instructor this semester is Surya Krishnapillai!
         <tr>
             <td style="max-width: 30px;">2</td>
             <td>Feb 16</td>
-            <td>Classical ML</td>
+            <td>Classical Machine Learning</td>
             <td></td>
             <td>Surya</td>
         </tr>
@@ -70,14 +71,14 @@ Your instructor this semester is Surya Krishnapillai!
         <tr>
             <td style="max-width: 30px;">5</td>
             <td>March 9</td>
-            <td>NLP + Transformers I</td>
+            <td>Natural Language Processing + Transformers I</td>
             <td></td>
             <td>Surya</td>
         </tr>
         <tr>
             <td style="max-width: 30px;">6</td>
             <td>March 16</td>
-            <td>Transformers II + LLMs</td>
+            <td>Transformers II + Large Language Models</td>
             <td></td>
             <td>Tejas</td>
         </tr>

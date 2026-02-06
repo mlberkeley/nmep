@@ -33,12 +33,15 @@ layout: home
 - [Optimizers](https://www.youtube.com/watch?v=MD2fYip6QsQ)
 - [Micrograd - Try to Build Backprop Yourself](https://www.youtube.com/watch?v=VMj-3S1tku0&t=1s) (by Andrej Karpathy!)
 
-### Week 4: Convoltions & CNNs
+### Week 4: Computer Vision
 - [Understanding Convolutions](https://drive.google.com/drive/folders/1e4C7s3pEPt2lLirIu02DiUdKlKlvsMo5?usp=sharing) (old NMEP HW!)
 - [CNNs Visualized](https://www.youtube.com/watch?v=pj9-rr1wDhM)
 - [Simple CNN Explanation](https://www.youtube.com/watch?v=zfiSAzpy9NM)
 - [MIT Convolutional Neural Networks](https://youtu.be/NmLK_WQBxB4?t=335&feature=shared) 
 - [Convolutional Neural Networks](https://d2l.ai/chapter_convolutional-neural-networks/lenet.html) (LeNet)
+- [Understanding of Object Detection](https://iopscience.iop.org/article/10.1088/1742-6596/1004/1/012029/pdf)
+- [A comprehensive review of object detection](https://www.sciencedirect.com/science/article/pii/S1051200422004298)
+- [Deep learning models for classification](https://metana.io/blog/deep-learning-models-for-classification-a-comprehensive-guide/)
 
 ### Week 5 & 6: Transformers
 - [Data C182](https://datac182fa24.github.io/) (part [2](https://datac182fa24.github.io/assets/lecture_slides/data182_Lecture12_Transformers_Part2.pdf) and part [4](https://datac182fa24.github.io/assets/lecture_slides/data182_Lecture14_Transformers_Part4.pdf) of the lecture on transformers)
@@ -48,13 +51,8 @@ layout: home
 - [Show, Attend, and Tell: Neural Image Caption Generation](https://arxiv.org/abs/1502.03044) (all about visual transformers)
 - [The Annotated Transformer](https://nlp.seas.harvard.edu/annotated-transformer/) (PyTorch code walkthrough!)
 
-### Week 8: Object Detection
-- [Understanding of Object Detection](https://iopscience.iop.org/article/10.1088/1742-6596/1004/1/012029/pdf)
-- [A comprehensive review of object detection](https://www.sciencedirect.com/science/article/pii/S1051200422004298)
-- [Deep learning models for classification](https://metana.io/blog/deep-learning-models-for-classification-a-comprehensive-guide/)
-
-### Week 10: GANs
-- [Foundational Paper](https://arxiv.org/pdf/1406.2661)
+### Week 8: Generative Models
+- [Foundational GANs Paper](https://arxiv.org/pdf/1406.2661)
 - [Unsupervised Representational Learning with GANs](https://arxiv.org/pdf/1511.06434)
 - [Generating Basketball Shoes](https://connorshorten300.medium.com/generating-basketball-shoes-with-dcgans-6cd72d521c01)
 
