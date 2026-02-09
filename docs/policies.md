@@ -15,9 +15,7 @@ Attendance is mandatory. If you absolutely cannot make it to lecture, please DM 
 Note that there are lecture quizzes due each week on Gradescope.
 
 ### Homeworks
-Throughout the semester, we'll be releasing homeworks that accompany lectures. To prevent limitless extensions, we'll be implementing a hard extension policy requiring you to turn in homework **at most 4 days after the deadline**. This policy is for your benefit and will help you keep pace with the course!
-
-We'll also be hosting weekly **homework parties** so you can ask questions and work with your fellow new members on the homework.
+Throughout the semester, we'll be releasing homeworks that accompany lectures. We'll also be hosting weekly **homework parties** so you can ask questions and work with your fellow new members on the homework.
 
 ### Paper presentations
 Starting from week 4, a group of two will give a presentation on a given paper at the start of the week's lecture.
