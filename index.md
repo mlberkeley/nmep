@@ -58,7 +58,7 @@ Your instructor this semester is Surya Krishnapillai!
             <td>Feb 23</td>
             <td>Deep Learning</td>
             <td></td>
-            <td>Surya</td>
+            <td>Saathvik</td>
         </tr>
         <tr>
             <td style="max-width: 30px;">4</td>
@@ -72,7 +72,7 @@ Your instructor this semester is Surya Krishnapillai!
             <td>March 9</td>
             <td>Natural Language Processing + Transformers I</td>
             <td></td>
-            <td>Surya</td>
+            <td>Surya, Saathvik</td>
         </tr>
         <tr>
             <td style="max-width: 30px;">6</td>
