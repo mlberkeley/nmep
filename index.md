@@ -49,7 +49,9 @@ Your instructor this semester is Surya Krishnapillai!
         <tr>
             <td style="max-width: 30px;">2</td>
             <td>Feb 16</td>
-            <td>Classical Machine Learning</td>
+            <td>Classical Machine Learning
+                (<a href="https://docs.google.com/presentation/d/1Val7XJBUKo0OgYnJD4j7vmHLYOxqtDo9PkP5sKEy3IQ/edit?usp=sharing">slides</a>)
+            </td>
             <td></td>
             <td>Surya</td>
         </tr>
@@ -58,7 +60,7 @@ Your instructor this semester is Surya Krishnapillai!
             <td>Feb 23</td>
             <td>Deep Learning</td>
             <td></td>
-            <td>Saathvik</td>
+            <td>Surya</td>
         </tr>
         <tr>
             <td style="max-width: 30px;">4</td>
@@ -93,7 +95,7 @@ Your instructor this semester is Surya Krishnapillai!
         <tr>
             <td style="max-width: 30px;">8</td>
             <td>March 30</td>
-            <td>TBD</td>
+            <td>Self-Supervised Learning + Elective</td>
             <td></td>
             <td>TBD</td>
         </tr>
