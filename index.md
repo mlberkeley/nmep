@@ -51,6 +51,7 @@ Your instructor this semester is Surya Krishnapillai!
             <td>Feb 16</td>
             <td>Classical Machine Learning
                 (<a href="https://docs.google.com/presentation/d/1Val7XJBUKo0OgYnJD4j7vmHLYOxqtDo9PkP5sKEy3IQ/edit?usp=sharing">slides</a>)
+                (<a href="https://docs.google.com/document/d/1K8C-xmWe5VAJBvodxH9-v8nYomVjt7olawJXjqMZhKY/edit?usp=sharing">notes</a>)
             </td>
             <td></td>
             <td>Surya</td>
