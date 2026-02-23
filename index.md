@@ -64,9 +64,9 @@ Your instructor this semester is Surya Krishnapillai!
                 <span class="label label-red"><strong>Reading</strong></span>
                 <a href="https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf">How to read a paper</a>
                 <br>
-                <span class="label label-yellow"><strong>Homework 2</strong></span>
-                <a href="https://colab.research.google.com/drive/1FPTx1RXtBfc4MaTkf7viZZD4U2F9gtKN?usp=sharing">Micrograd</a>
+                <span class="label label-yellow"><strong>Homework 2</strong> (due March 2)</span>
                 <a href="docs/homeworks/hw2.html">Word Embeddings</a>
+                <a href="https://colab.research.google.com/drive/1FPTx1RXtBfc4MaTkf7viZZD4U2F9gtKN?usp=sharing">Micrograd</a>
             </td>
             <td>Surya</td>
         </tr>
