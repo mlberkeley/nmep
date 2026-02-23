@@ -60,7 +60,14 @@ Your instructor this semester is Surya Krishnapillai!
             <td style="max-width: 30px;">3</td>
             <td>Feb 23</td>
             <td>Deep Learning</td>
-            <td></td>
+            <td>
+                <span class="label label-red"><strong>Reading</strong></span>
+                <a href="https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf">How to read a paper</a>
+                <br>
+                <span class="label label-yellow"><strong>Homework 2</strong></span>
+                <a href="https://colab.research.google.com/drive/1FPTx1RXtBfc4MaTkf7viZZD4U2F9gtKN?usp=sharing">Micrograd</a>
+                <a href="docs/homeworks/hw2.html">Word Embeddings</a>
+            </td>
             <td>Surya</td>
         </tr>
         <tr>
