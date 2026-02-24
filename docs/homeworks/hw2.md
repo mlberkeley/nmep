@@ -25,7 +25,7 @@ For the specific GloVe embeddings we have provided, the embedded vectors have di
 
 Install the python package [gensim](https://pypi.org/project/gensim/) which will act as an interface for the GloVe embeddings.
 
-The following code is provided to you in `word_embeddings.py` to initialize the GloVe model:
+The following code is provided to you in `embeddings.py` to initialize the GloVe model:
 ```python
 from gensim.models import KeyedVectors
 
@@ -48,7 +48,7 @@ Check the [documentation](https://radimrehurek.com/gensim/models/keyedvectors.ht
 
 ### Task
 
-Implement the `embed` function in the `WordEmbeddings` class in `word_embeddings.py`. `embed` takes in a list of documents and returns the average word embedding for each document using a pre-trained GloVe model.
+Implement the `embed` function in the `WordEmbeddings` class in `embeddings.py`. `embed` takes in a list of documents and returns the average word embedding for each document using a pre-trained GloVe model.
 
 ```python
 ...
