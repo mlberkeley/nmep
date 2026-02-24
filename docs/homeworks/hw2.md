@@ -23,7 +23,7 @@ For the specific GloVe embeddings we have provided, the embedded vectors have di
 
 ### GloVe Embeddings Interface
 
-Install the python package [gensim](https://pypi.org/project/gensim/) which will act as an interface for the GloVE embeddings.
+Install the python package [gensim](https://pypi.org/project/gensim/) which will act as an interface for the GloVe embeddings.
 
 The following code is provided to you in `word_embeddings.py` to initialize the GloVe model:
 ```python
@@ -99,7 +99,7 @@ Next, we ideally want to take a piece of text (a string) as input and pass this 
 
 Once you realize the answer to this question, transform your data, the `text` column to convert strings into a form that your MLP can actually take as input. *Hint: You have already written a function to convert strings into their mathematical representations.*
 
-#### Training and Test Splits
+### Training and Test Splits
 
 Why must we separate our data into training and test splits? Would it be erroneous to simply train on our entire dataset?
 
@@ -109,7 +109,7 @@ Use sklearn's train_test_split function to perform a train/test split. Set the r
 from sklearn.model_selection import train_test_split
 ```
 
-#### Torch Dataset and DataLoader
+### Torch Dataset and DataLoader
 
 Now that our data is cleaned and formatted in quantities that our MLP can take as input and use to predict, let's wrap them with pytorch's dataset and dataloader classes to train on.
 
@@ -176,7 +176,7 @@ Plot your train and validation loss on the same plot using `plt.plot`. Make sure
 
 Then, plot your train and validation accuracy on another figure. Make sure to label your lines.
 
-
+Finally, save your plots for submission to Gradescope.
 ### Evaluating
 
 Write a short script to evaluate the model on a piece of text you write.
@@ -184,6 +184,12 @@ Write a short script to evaluate the model on a piece of text you write.
 Remember to set the model to eval mode, and to convert the text to an embedding.
 
 Result should be a string either "negative", "neutral", or "positive".
+
+Implement this:
+
+```python
+def evaluate(trained_model, sample_text):
+```
 
 
 ### Optional Tasks:
@@ -197,7 +203,7 @@ Write a few lines of code to plot a confusion matrix for the validation set usin
 ## Results and Submission
 The dataset is not perfect, but your model should be able to get over **70%** on the validation set. We do not have a hold out test set for this exercise.
 
-#### Credit
+### Credit
 For full credit, you must have a model that achieves at least **70%** accuracy on the validation set. 
 
 All functions and classes mentioned above should be implemented as instructed, including:
@@ -216,7 +222,7 @@ Additionally, you should download these plots and submit them for full credit:
 2. Train and Validation Accuracy Plot
 
 
-#### Experimentation
+### Experimentation
 To achieve a higher accuracy, feel free to change the way you featurize. Some ideas for you to try:
 
 Try larger models (wider layers, more layers)
