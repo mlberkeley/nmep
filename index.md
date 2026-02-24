@@ -41,10 +41,7 @@ Your instructor this semester is Surya Krishnapillai!
             <a href="https://colab.research.google.com/github/mlberkeley/nmep/blob/main/assets/hw1/hw1-numpy.ipynb">NumPy</a>
             <a href="https://colab.research.google.com/github/mlberkeley/nmep/blob/main/assets/hw1/hw1-intro-pytorch.ipynb">PyTorch</a>
             </td>
-
-            <td>
-            Surya
-            </td>
+            <td>Surya</td>
         </tr>
         <tr>
             <td style="max-width: 30px;">2</td>
@@ -61,6 +58,7 @@ Your instructor this semester is Surya Krishnapillai!
             <td>Feb 23</td>
             <td>Deep Learning
                 (<a href="https://docs.google.com/presentation/d/1l6h2Lqfv86eMuB0kUU8Rwxq_mNv7M0A_yWoku_E5bTs/edit?usp=sharing">slides</a>)
+                (<a href="https://docs.google.com/document/d/1_vVDNg2L7n_R8kxTm_opW8AQXanQ9_TDr-K2dgAh7cM/edit?usp=sharing">notes</a>)
             </td>
             <td>
                 <span class="label label-red"><strong>Reading</strong></span>
