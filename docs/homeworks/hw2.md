@@ -7,7 +7,7 @@ layout: home
 
 # Homework 2: Word Embeddings
 
-In this homework, you will be experimenting with word embeddings. Clone the skeleton code at [TBD] to begin.
+In this homework, you will be experimenting with word embeddings. Clone the [skeleton code](https://github.com/mlberkeley/sp26-nmep-hw2) to begin.
 
 ## Part 1: GloVe Embeddings Exercise
 
@@ -57,10 +57,11 @@ def embed(self, documents: list[str]) -> np.ndarray
 
 For the examples below, we should expect these shapes:
 ```python
-emb = embed(["I like goats"])
-print(emb.shape) # expecting (1, 50)
-emb = embed(["I like goats", "I hate pizza"])
-print(emb.shape) # expecting (2, 50)
+word_embedding_model = WordEmbeddings()
+emb = word_embedding_model.embed(["I like goats"])
+print(emb.shape)  # expecting (1, 50)
+emb = word_embedding_model.embed(["I like goats", "I hate pizza"])
+print(emb.shape)  # expecting (2, 50)
 ```
 
 Hint: Consider that a "document" is just a string of space separated words. How can we obtain the word embeddings for each word in a document and then average them out?
