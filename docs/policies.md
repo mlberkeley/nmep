@@ -20,7 +20,7 @@ Throughout the semester, we'll be releasing homeworks that accompany lectures. W
 ### Paper presentations
 Starting from week 4, a group of two will give a presentation on a given paper at the start of the week's lecture Please make sure to add your name to this
 [signup sheet](https://docs.google.com/spreadsheets/d/1b8OkElGwP0c5ZZPKoxf6n_3iSpcMFypX7O-oV90YWw8/edit?usp=sharing).
-For reference, you may use these [slide template](https://docs.google.com/presentation/d/1CgUaMp7eyq2N8LlilqNMbZAsr1BtTzEkW7HA5eIfWKc/edit?usp=sharing).
+For reference, you may use this [slide template](https://docs.google.com/presentation/d/1CgUaMp7eyq2N8LlilqNMbZAsr1BtTzEkW7HA5eIfWKc/edit?usp=sharing).
 
 ### Midterm
 Halfway through instruction, you will have an oral midterm exam covering all topics that have been taught thus far. It will be carried out individually and will take about an hour.

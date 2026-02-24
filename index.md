@@ -7,7 +7,7 @@ layout: home
 ## NMEP Spring 2026
 
 Welcome everyone!
-In the New Member Education Program (NMEP), we'll be paving a sturdy ML foundation for you—from classical ML to diffusion models. Come hungry to learn and get to know the rest of your class!
+In the New Member Education Program (NMEP), we'll be paving a sturdy ML foundation for you - from classical ML to reinforcement learning. Come hungry to learn and get to know the rest of your class!
 
 Your instructor this semester is Surya Krishnapillai!
 
@@ -59,7 +59,9 @@ Your instructor this semester is Surya Krishnapillai!
         <tr>
             <td style="max-width: 30px;">3</td>
             <td>Feb 23</td>
-            <td>Deep Learning</td>
+            <td>Deep Learning
+                (<a href="https://docs.google.com/presentation/d/1l6h2Lqfv86eMuB0kUU8Rwxq_mNv7M0A_yWoku_E5bTs/edit?usp=sharing">slides</a>)
+            </td>
             <td>
                 <span class="label label-red"><strong>Reading</strong></span>
                 <a href="https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf">How to read a paper</a>
