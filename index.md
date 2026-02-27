@@ -87,7 +87,7 @@ Your instructor this semester is Surya Krishnapillai!
         <tr>
             <td style="max-width: 30px;">6</td>
             <td>March 16</td>
-            <td>Large Language Models + Self-Supervised Learning</td>
+            <td>LLMs + Self-Supervised Learning</td>
             <td></td>
             <td>Tejas, Aakarsh</td>
         </tr>
@@ -103,7 +103,7 @@ Your instructor this semester is Surya Krishnapillai!
         <tr>
             <td style="max-width: 30px;">8</td>
             <td>March 30</td>
-            <td>3D CV + World Models</td>
+            <td>3D Computer Vision + World Models</td>
             <td></td>
             <td>TBD</td>
         </tr>
