@@ -80,16 +80,16 @@ Your instructor this semester is Surya Krishnapillai!
         <tr>
             <td style="max-width: 30px;">5</td>
             <td>March 9</td>
-            <td>Natural Language Processing + Transformers I</td>
+            <td>Natural Language Processing + Transformers</td>
             <td></td>
-            <td>Surya, Saathvik</td>
+            <td>Saathvik, Surya</td>
         </tr>
         <tr>
             <td style="max-width: 30px;">6</td>
             <td>March 16</td>
-            <td>Transformers II + Large Language Models</td>
+            <td>Large Language Models + Self-Supervised Learning</td>
             <td></td>
-            <td>Tejas</td>
+            <td>Tejas, Aakarsh</td>
         </tr>
         <tr>
             <td style="max-width: 30px;">7</td>
@@ -103,7 +103,7 @@ Your instructor this semester is Surya Krishnapillai!
         <tr>
             <td style="max-width: 30px;">8</td>
             <td>March 30</td>
-            <td>Self-Supervised Learning + Elective</td>
+            <td>3D CV + World Models</td>
             <td></td>
             <td>TBD</td>
         </tr>
