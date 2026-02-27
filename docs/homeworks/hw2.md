@@ -128,9 +128,9 @@ Finally, use a `DataLoader` to create train and validation dataloaders. Check th
 
 ### The MLP
 
-Create an MLP! Ideally you make it easy to change the number of layers and the size of each layer, but you don't have to
+Create an MLP! Ideally you make it easy to change the number of layers and the size of each layer.
 
-Hint: Create a class that inherits from torch.nn.Module. What methods do you need to implement? (giveaway: `__init__` and `forward`)
+Note: you actually don't need a softmax layer if you're using Cross Entropy Loss since PyTorch automatically applies it for us.
 
 Hint: use torch.nn.Linear to create a linear layer. Why?
 
