@@ -79,6 +79,7 @@ Your instructor this semester is Surya Krishnapillai!
             <td>
                 <span class="label"><strong>Lecture Exercise</strong></span>
                 <a href="https://colab.research.google.com/drive/103Keq-lZgknscTKp7FEcUQHVZvrJM1dN?usp=sharing"> YOLO </a>
+                </br>
                 <span class="label label-yellow"><strong>Homework 3</strong> (due March 16)</span>
                 <a href="docs/homeworks/hw3.html">Model Zhu</a>
             </td>
