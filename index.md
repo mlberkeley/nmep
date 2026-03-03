@@ -73,8 +73,15 @@ Your instructor this semester is Surya Krishnapillai!
         <tr>
             <td style="max-width: 30px;">4</td>
             <td>March 2</td>
-            <td>Computer Vision</td>
-            <td></td>
+            <td>Computer Vision
+                (<a href="https://docs.google.com/presentation/d/16FRcCaVF72MkKK63YkDuq-HRk-OC5hWlNooTzfbh5gM/edit?usp=sharing">slides</a>)
+            </td>
+            <td>
+                <span class="label"><strong>Lecture Exercise</strong></span>
+                <a href="https://colab.research.google.com/drive/103Keq-lZgknscTKp7FEcUQHVZvrJM1dN?usp=sharing"> YOLO </a>
+                <span class="label label-yellow"><strong>Homework 3</strong> (due March 16)</span>
+                <a href="docs/homeworks/hw3.html">Model Zhu</a>
+            </td>
             <td>Tim, Andrew</td>
         </tr>
         <tr>
@@ -93,7 +100,7 @@ Your instructor this semester is Surya Krishnapillai!
         </tr>
         <tr>
             <td style="max-width: 30px;">7</td>
-            <td>TBD</td>
+            <td>March 17-29</td>
             <td><strong>Midterm</strong></td>
             <td>
                 <span class="label label-red"><strong>NMEP Midterm</strong></span>
