@@ -75,6 +75,7 @@ Your instructor this semester is Surya Krishnapillai!
             <td>March 2</td>
             <td>Computer Vision
                 (<a href="https://docs.google.com/presentation/d/16FRcCaVF72MkKK63YkDuq-HRk-OC5hWlNooTzfbh5gM/edit?usp=sharing">slides</a>)
+                (<a href="https://docs.google.com/document/d/1z5Ik8tFjcGqz21di8_C1tGFZUJHq_GPODQHPV76JdkU/edit?usp=sharing">notes</a>)
             </td>
             <td>
                 <span class="label"><strong>Lecture Exercise</strong></span>
