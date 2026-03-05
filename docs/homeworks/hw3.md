@@ -9,7 +9,7 @@ layout: home
 
 In this homework, you will be implementing a few popular computer vision models, and training them on both CIFAR-10 and on a custom dataset we created. You will be using PyTorch for this homework.
 
-You will be using a medium-sized [repository](https://github.com/mlberkeley/fa25-nmep-hw3/) which mimics that of a standard codebase which you might find for modern projects. Don't be intimidated! We will walk you through all of the parts of it, and hopefully after this homework you will be more confident working with codebases like this. We believe this is a realistic representation of what you may do in the future, and we hope you will find it useful.
+You will be using a medium-sized [repository](https://github.com/mlberkeley/sp26-nmep-hw3) which mimics that of a standard codebase which you might find for modern projects. Don't be intimidated! We will walk you through all of the parts of it, and hopefully after this homework you will be more confident working with codebases like this. We believe this is a realistic representation of what you may do in the future, and we hope you will find it useful.
 
 We would recommend you first set up the repository ASAP on honeydew and try running it out of the box to see how it trains, and only afterwards focus on understanding all parts of the code. For your benefit, the codebase works out of the box, and you should be able to train a model on CIFAR-10 with no changes. Throughout the assignment, you will need to make some changes to models/alexnet.py and models/resnet.py, for which you will find the provided implementations of other models in models/ to be helpful.
 
@@ -205,15 +205,23 @@ Visualize a couple of the predictions on the validation set (20 or so). Be sure 
 
 To make this more fun, we have scraped an entire new dataset for you! 🎉
 
-We called it MediumImageNet. It contains 1.5M training images, and 190k images for validation and test each. There are 200 classes distributed approximately evenly. The images are available in 224x224 and 96x96 in hdf5 files. The test set labels are not provided :). 
+We called it MediumImageNet. There are 200 classes distributed approximately evenly. The images are available in 224x224 and 96x96 in hdf5 files. The test set labels are not provided :). 
 
-The dataset is downloaded onto honeydew at `/data/medium-imagenet`. Feel free to play around with the files and learn more about the dataset.
+The dataset is downloaded onto honeydew at `/data/nmep/cv/medium-imagenet-96.hdf5`. Feel free to play around with the files and learn more about the dataset.
 
-For the kaggle competition, you need to train on the 1.5M training images and submit predictions on the 190k test images. You may validate on the validation set but you may not use is as a training set to get better accuracy (aka don't backprop on it). The test set labels are not provided. You can submit up to 10 times a day (hint: that's a lot).
+For the kaggle competition, you need to train on the training images and submit predictions on the 75929 test images. You may validate on the validation set but you may not use is as a training set to get better accuracy (aka don't backprop on it). The test set labels are not provided. You can submit up to 10 times a day (hint: that's a lot).
 
 Your Kaggle scores should approximately match your validation scores. If they do not, something is wrong.
 
-(Soon) when you run the training script, it will output a file called `submission.csv`. This is the file you need to submit to Kaggle. You're required to submit at least once. 
+When you run the training script, it will output predictions in the form of a `.npy` to the output path specified in the config file. 
+
+You may use `utils/build_csv_preds.py` to build a csv submission file to submit to Kaggle. `build_csv_preds.py` requires one argument `input_path` and spits out a `predictions.csv` in the directory where you ran the code. 
+
+For instance, `python3 utils/build_csv_preds.py output/resnet18_medium_imagenet/preds.npy` will generate a csv file based on the `.npy` at `output/resnet18_medium_imagenet/preds.npy`.
+
+Then, simply join the competition [here](https://www.kaggle.com/t/0c2c5d1b8e5f400eaecf03fd03aa2eb4) and upload your csv!.
+
+You **must** submit at least **once** to kaggle.
 
 ### Kaggle writeup
 
