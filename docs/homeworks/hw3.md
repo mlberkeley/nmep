@@ -19,12 +19,12 @@ Best of luck, and we hope you enjoy it!
 
 ## Setup 
 
-To get started, you will need to fork and clone [the repository](https://github.com/mlberkeley/fa25-nmep-hw3/) (clone on honeydew!) and install the dependencies, preferably in a conda or uv environment. Standard instructions are provided below.
+To get started, you will need to fork and clone [the repository](https://github.com/mlberkeley/sp26-nmep-hw3) (clone on honeydew!) and install the dependencies, preferably in a conda or uv environment. Standard instructions are provided below.
 
 ```bash
 ssh honeydew
-git clone git@github.com:mlberkeley/fa25-nmep-hw3.git
-cd fa25-nmep-hw3
+git clone git@github.com:mlberkeley/sp26-nmep-hw3.git
+cd sp26-nmep-hw3
 conda env create -f env.yml
 conda activate vision-zoo
 CUDA_VISIBLE_DEVICES=0 python main.py --cfg=configs/lenet_base.yaml
