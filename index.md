@@ -7,7 +7,7 @@ layout: home
 ## NMEP Spring 2026
 
 Welcome everyone!
-In the New Member Education Program (NMEP), we'll be paving a sturdy ML foundation for you—from classical ML to diffusion models. Come hungry to learn and get to know the rest of your class!
+In the New Member Education Program (NMEP), we'll be paving a sturdy ML foundation for you - from classical ML to reinforcement learning. Come hungry to learn and get to know the rest of your class!
 
 Your instructor this semester is Surya Krishnapillai!
 
@@ -41,10 +41,7 @@ Your instructor this semester is Surya Krishnapillai!
             <a href="https://colab.research.google.com/github/mlberkeley/nmep/blob/main/assets/hw1/hw1-numpy.ipynb">NumPy</a>
             <a href="https://colab.research.google.com/github/mlberkeley/nmep/blob/main/assets/hw1/hw1-intro-pytorch.ipynb">PyTorch</a>
             </td>
-
-            <td>
-            Surya
-            </td>
+            <td>Surya</td>
         </tr>
         <tr>
             <td style="max-width: 30px;">2</td>
@@ -59,7 +56,10 @@ Your instructor this semester is Surya Krishnapillai!
         <tr>
             <td style="max-width: 30px;">3</td>
             <td>Feb 23</td>
-            <td>Deep Learning</td>
+            <td>Deep Learning
+                (<a href="https://docs.google.com/presentation/d/1l6h2Lqfv86eMuB0kUU8Rwxq_mNv7M0A_yWoku_E5bTs/edit?usp=sharing">slides</a>)
+                (<a href="https://docs.google.com/document/d/1_vVDNg2L7n_R8kxTm_opW8AQXanQ9_TDr-K2dgAh7cM/edit?usp=sharing">notes</a>)
+            </td>
             <td>
                 <span class="label label-red"><strong>Reading</strong></span>
                 <a href="https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf">How to read a paper</a>
@@ -73,27 +73,36 @@ Your instructor this semester is Surya Krishnapillai!
         <tr>
             <td style="max-width: 30px;">4</td>
             <td>March 2</td>
-            <td>Computer Vision</td>
-            <td></td>
+            <td>Computer Vision
+                (<a href="https://docs.google.com/presentation/d/16FRcCaVF72MkKK63YkDuq-HRk-OC5hWlNooTzfbh5gM/edit?usp=sharing">slides</a>)
+                (<a href="https://docs.google.com/document/d/1z5Ik8tFjcGqz21di8_C1tGFZUJHq_GPODQHPV76JdkU/edit?usp=sharing">notes</a>)
+            </td>
+            <td>
+                <span class="label"><strong>Lecture Exercise</strong></span>
+                <a href="https://colab.research.google.com/drive/103Keq-lZgknscTKp7FEcUQHVZvrJM1dN?usp=sharing"> YOLO </a>
+                <br>
+                <span class="label label-yellow"><strong>Homework 3</strong> (due March 16)</span>
+                <a href="docs/homeworks/hw3.html">Model Zhu</a>
+            </td>
             <td>Tim, Andrew</td>
         </tr>
         <tr>
             <td style="max-width: 30px;">5</td>
             <td>March 9</td>
-            <td>Natural Language Processing + Transformers I</td>
+            <td>Natural Language Processing + Transformers</td>
             <td></td>
-            <td>Surya, Saathvik</td>
+            <td>Saathvik, Surya</td>
         </tr>
         <tr>
             <td style="max-width: 30px;">6</td>
             <td>March 16</td>
-            <td>Transformers II + Large Language Models</td>
+            <td>LLMs + Self-Supervised Learning</td>
             <td></td>
-            <td>Tejas</td>
+            <td>Tejas, Aakarsh</td>
         </tr>
         <tr>
             <td style="max-width: 30px;">7</td>
-            <td>TBD</td>
+            <td>March 17-29</td>
             <td><strong>Midterm</strong></td>
             <td>
                 <span class="label label-red"><strong>NMEP Midterm</strong></span>
@@ -103,7 +112,7 @@ Your instructor this semester is Surya Krishnapillai!
         <tr>
             <td style="max-width: 30px;">8</td>
             <td>March 30</td>
-            <td>Self-Supervised Learning + Elective</td>
+            <td>3D Computer Vision + World Models</td>
             <td></td>
             <td>TBD</td>
         </tr>
