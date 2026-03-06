@@ -205,7 +205,7 @@ Visualize a couple of the predictions on the validation set (20 or so). Be sure 
 
 To make this more fun, we have scraped an entire new dataset for you! 🎉
 
-We called it MediumImageNet. There are 200 classes distributed approximately evenly. The images are available in 224x224 and 96x96 in hdf5 files. The test set labels are not provided :). 
+We called it MediumImageNet. There are 200 classes distributed approximately evenly. The images are available in hdf5 files. The test set labels are not provided :). 
 
 The dataset is downloaded onto honeydew at `/data/nmep/cv/medium-imagenet-96.hdf5`. Feel free to play around with the files and learn more about the dataset.
 
@@ -221,7 +221,7 @@ For instance, `python3 utils/build_csv_preds.py output/resnet18_medium_imagenet/
 
 Then, simply join the competition [here](https://www.kaggle.com/t/0c2c5d1b8e5f400eaecf03fd03aa2eb4) and upload your csv!.
 
-You **must** submit at least **once** to kaggle.
+You **must** submit at least **once** to kaggle, and for full credit, you **must** achieve >= 70% accuracy.
 
 ### Kaggle writeup
 
