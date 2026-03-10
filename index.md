@@ -89,9 +89,21 @@ Your instructor this semester is Surya Krishnapillai!
         <tr>
             <td style="max-width: 30px;">5</td>
             <td>March 9</td>
-            <td>Natural Language Processing + Transformers</td>
+            <td>Natural Language Processing + Transformers
+                (<a href="https://docs.google.com/presentation/d/1vdouen9dPhzHxi4D3dgYhrBxo5yORsTYHpThNm6aaoA/edit?usp=sharing">slides</a>)
+                (<a href="https://docs.google.com/document/d/1TrmyDARjxQw8tH2Yhd5cpDPem9ylhdhU8n4k3lV5WsQ/edit?usp=sharing">notes</a>)            
+            </td>
             <td></td>
             <td>Saathvik, Surya</td>
+        </tr>
+        <tr>
+            <td style="max-width: 30px;">7</td>
+            <td>March 15</td>
+            <td><strong>Midterm</strong></td>
+            <td>
+                <span class="label label-red"><strong>NMEP Midterm</strong></span>
+            </td>
+            <td></td>
         </tr>
         <tr>
             <td style="max-width: 30px;">6</td>
@@ -99,15 +111,6 @@ Your instructor this semester is Surya Krishnapillai!
             <td>LLMs + Self-Supervised Learning</td>
             <td></td>
             <td>Tejas, Aakarsh</td>
-        </tr>
-        <tr>
-            <td style="max-width: 30px;">7</td>
-            <td>March 17-29</td>
-            <td><strong>Midterm</strong></td>
-            <td>
-                <span class="label label-red"><strong>NMEP Midterm</strong></span>
-            </td>
-            <td></td>
         </tr>
         <tr>
             <td style="max-width: 30px;">8</td>
