@@ -101,21 +101,21 @@ Your instructor this semester is Surya Krishnapillai!
         <tr>
             <td style="max-width: 30px;">6</td>
             <td>March 16</td>
-            <td>LLMs + Self-Supervised Learning
+            <td>Large Language Models
                 (<a href="https://docs.google.com/presentation/d/1oRCO5tL95G57owNAfvZ_7ZYH-KAiCitBYUNZsGz8qXA/edit?usp=sharing">slides</a>)            
             </td>
             <td>
                 <span class="label label-yellow"><strong>Homework 4</strong> (due April 6)</span>
                 <a href="docs/homeworks/hw4.html">Transformers</a>
             </td>
-            <td>Tejas, Surya</td>
+            <td>Tejas</td>
         </tr>
         <tr>
             <td style="max-width: 30px;">7</td>
             <td>March 30</td>
-            <td>3D Computer Vision + World Models</td>
+            <td>SSL + 3D SV + World Models</td>
             <td></td>
-            <td>TBD</td>
+            <td>Surya, TBD</td>
         </tr>
         <tr>
             <td style="max-width: 30px;">8</td>
@@ -129,12 +129,12 @@ Your instructor this semester is Surya Krishnapillai!
             <td>Apr 13</td>
             <td>Reinforcement Learning</td>
             <td></td>
-            <td>Surya</td>
+            <td>TBD</td>
         </tr>
         <tr>
             <td style="max-width: 30px;">10</td>
             <td>Apr 20</td>
-            <td>AI Safety</td>
+            <td>AI Safety and Interpretability</td>
             <td><span class="label label-green"><strong>Final Project Checkpoint</strong></span></td>
             <td>Prakrat</td>
         </tr>
