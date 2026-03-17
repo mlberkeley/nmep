@@ -113,7 +113,7 @@ Your instructor this semester is Surya Krishnapillai!
         <tr>
             <td style="max-width: 30px;">7</td>
             <td>March 30</td>
-            <td>SSL + 3D SV + World Models</td>
+            <td>SSL + 3D CV + World Models</td>
             <td></td>
             <td>Surya, TBD</td>
         </tr>
