@@ -134,7 +134,7 @@ Your instructor this semester is Surya Krishnapillai!
         <tr>
             <td style="max-width: 30px;">10</td>
             <td>Apr 20</td>
-            <td>AI Safety and Interpretability</td>
+            <td>AI Safety + Conclusion</td>
             <td><span class="label label-green"><strong>Final Project Checkpoint</strong></span></td>
             <td>Prakrat</td>
         </tr>
