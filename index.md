@@ -101,9 +101,14 @@ Your instructor this semester is Surya Krishnapillai!
         <tr>
             <td style="max-width: 30px;">6</td>
             <td>March 16</td>
-            <td>LLMs + Self-Supervised Learning</td>
-            <td></td>
-            <td>Tejas, Aakarsh</td>
+            <td>LLMs + Self-Supervised Learning
+                (<a href="https://docs.google.com/presentation/d/1oRCO5tL95G57owNAfvZ_7ZYH-KAiCitBYUNZsGz8qXA/edit?usp=sharing">slides</a>)            
+            </td>
+            <td>
+                <span class="label label-yellow"><strong>Homework 4</strong> (due April 6)</span>
+                <a href="docs/homeworks/hw4.html">Transformers</a>
+            </td>
+            <td>Tejas, Surya</td>
         </tr>
         <tr>
             <td style="max-width: 30px;">7</td>
