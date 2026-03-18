@@ -113,21 +113,21 @@ Your instructor this semester is Surya Krishnapillai!
         <tr>
             <td style="max-width: 30px;">7</td>
             <td>March 30</td>
-            <td>SSL + 3D CV + World Models</td>
+            <td>SSL + Generative Models</td>
             <td></td>
-            <td>Surya, TBD</td>
+            <td>Surya, Aakarsh</td>
         </tr>
         <tr>
             <td style="max-width: 30px;">8</td>
             <td>Apr 6</td>
-            <td>Generative Models</td>
+            <td>Reinforcement Learning</td>
             <td></td>
-            <td>Tejas</td>
+            <td>TBD</td>
         </tr>
         <tr>
             <td style="max-width: 30px;">9</td>
             <td>Apr 13</td>
-            <td>Reinforcement Learning</td>
+            <td>3D Computer Vision + World Models</td>
             <td></td>
             <td>TBD</td>
         </tr>
@@ -141,7 +141,7 @@ Your instructor this semester is Surya Krishnapillai!
         <tr>
             <td style="max-width: 30px;">11</td>
             <td>TBD</td>
-            <td><strong>Final project showcase</strong></td>
+            <td><strong>Final Project Showcase</strong></td>
             <td><span class="label label-green"><strong>Final Project Due</strong></span></td>
             <td></td>
         </tr>
