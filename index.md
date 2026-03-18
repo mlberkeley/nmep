@@ -114,7 +114,9 @@ Your instructor this semester is Surya Krishnapillai!
             <td style="max-width: 30px;">7</td>
             <td>March 30</td>
             <td>SSL + Generative Models</td>
-            <td></td>
+            <td>
+                <span class="label label-green"><strong>Final Project Kickoff</strong></span>
+            </td>
             <td>Surya, Aakarsh</td>
         </tr>
         <tr>
@@ -122,7 +124,7 @@ Your instructor this semester is Surya Krishnapillai!
             <td>Apr 6</td>
             <td>Reinforcement Learning</td>
             <td></td>
-            <td>TBD</td>
+            <td>Kavish, Tanmayi</td>
         </tr>
         <tr>
             <td style="max-width: 30px;">9</td>
