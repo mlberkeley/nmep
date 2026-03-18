@@ -131,7 +131,7 @@ Your instructor this semester is Surya Krishnapillai!
             <td>Apr 13</td>
             <td>3D Computer Vision + World Models</td>
             <td></td>
-            <td>TBD</td>
+            <td>Tim, Andrew, Rishi</td>
         </tr>
         <tr>
             <td style="max-width: 30px;">10</td>
