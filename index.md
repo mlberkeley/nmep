@@ -144,7 +144,7 @@ Your instructor this semester is Surya Krishnapillai!
         </tr>
         <tr>
             <td style="max-width: 30px;">11</td>
-            <td>TBD</td>
+            <td>Late April</td>
             <td><strong>Final Project Showcase</strong></td>
             <td><span class="label label-green"><strong>Final Project Due</strong></span></td>
             <td></td>
