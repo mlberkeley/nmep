@@ -96,7 +96,7 @@ Your instructor this semester is Surya Krishnapillai!
             <td>
                 <span class="label label-red"><strong>NMEP Midterm</strong> (March 15)</span>
             </td>
-            <td>Saathvik, Surya</td>
+            <td>Surya, Saathvik</td>
         </tr>
         <tr>
             <td style="max-width: 30px;">6</td>
@@ -130,7 +130,9 @@ Your instructor this semester is Surya Krishnapillai!
             <td style="max-width: 30px;">9</td>
             <td>Apr 13</td>
             <td>3D Computer Vision + World Models</td>
-            <td></td>
+            <td>
+                <span class="label label-green"><strong>Final Project Proposal</strong></span>
+            </td>
             <td>Tim, Andrew, Rishi</td>
         </tr>
         <tr>
