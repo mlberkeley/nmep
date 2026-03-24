@@ -89,58 +89,61 @@ Your instructor this semester is Surya Krishnapillai!
         <tr>
             <td style="max-width: 30px;">5</td>
             <td>March 9</td>
-            <td>Natural Language Processing + Transformers</td>
-            <td></td>
+            <td>NLP + Transformers
+                (<a href="https://docs.google.com/presentation/d/1vdouen9dPhzHxi4D3dgYhrBxo5yORsTYHpThNm6aaoA/edit?usp=sharing">slides</a>)
+                (<a href="https://docs.google.com/document/d/1TrmyDARjxQw8tH2Yhd5cpDPem9ylhdhU8n4k3lV5WsQ/edit?usp=sharing">notes</a>)            
+            </td>
+            <td>
+                <span class="label label-red"><strong>NMEP Midterm</strong> (March 15)</span>
+            </td>
             <td>Saathvik, Surya</td>
         </tr>
         <tr>
             <td style="max-width: 30px;">6</td>
             <td>March 16</td>
-            <td>LLMs + Self-Supervised Learning</td>
-            <td></td>
-            <td>Tejas, Aakarsh</td>
-        </tr>
-        <tr>
-            <td style="max-width: 30px;">7</td>
-            <td>March 17-29</td>
-            <td><strong>Midterm</strong></td>
-            <td>
-                <span class="label label-red"><strong>NMEP Midterm</strong></span>
+            <td>Large Language Models
+                (<a href="https://docs.google.com/presentation/d/1oRCO5tL95G57owNAfvZ_7ZYH-KAiCitBYUNZsGz8qXA/edit?usp=sharing">slides</a>)            
             </td>
-            <td></td>
-        </tr>
-        <tr>
-            <td style="max-width: 30px;">8</td>
-            <td>March 30</td>
-            <td>3D Computer Vision + World Models</td>
-            <td></td>
-            <td>TBD</td>
-        </tr>
-        <tr>
-            <td style="max-width: 30px;">9</td>
-            <td>Apr 6</td>
-            <td>Generative Models</td>
-            <td></td>
+            <td>
+                <span class="label label-yellow"><strong>Homework 4</strong> (due April 6)</span>
+                <a href="docs/homeworks/hw4.html">Transformers</a>
+            </td>
             <td>Tejas</td>
         </tr>
         <tr>
-            <td style="max-width: 30px;">10</td>
-            <td>Apr 13</td>
-            <td>Reinforcement Learning</td>
-            <td></td>
-            <td>Surya</td>
+            <td style="max-width: 30px;">7</td>
+            <td>March 30</td>
+            <td>SSL + Generative Models</td>
+            <td>
+                <span class="label label-green"><strong>Final Project Kickoff</strong></span>
+            </td>
+            <td>Surya, Aakarsh</td>
         </tr>
         <tr>
-            <td style="max-width: 30px;">11</td>
+            <td style="max-width: 30px;">8</td>
+            <td>Apr 6</td>
+            <td>Reinforcement Learning</td>
+            <td></td>
+            <td>Kavish, Tanmayi</td>
+        </tr>
+        <tr>
+            <td style="max-width: 30px;">9</td>
+            <td>Apr 13</td>
+            <td>3D Computer Vision + World Models</td>
+            <td></td>
+            <td>Tim, Andrew, Rishi</td>
+        </tr>
+        <tr>
+            <td style="max-width: 30px;">10</td>
             <td>Apr 20</td>
-            <td>AI Safety</td>
+            <td>AI Safety + Conclusion</td>
             <td><span class="label label-green"><strong>Final Project Checkpoint</strong></span></td>
             <td>Prakrat</td>
         </tr>
         <tr>
-            <td style="max-width: 30px;">12</td>
+            <td style="max-width: 30px;">11</td>
             <td>TBD</td>
-            <td><strong>Final project showcase</strong></td>
+            <td><strong>Final Project Showcase</strong></td>
             <td><span class="label label-green"><strong>Final Project Due</strong></span></td>
             <td></td>
         </tr>
