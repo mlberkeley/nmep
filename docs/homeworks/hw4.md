@@ -72,22 +72,20 @@ architecture conceptually in depth, but we'll leave it up to you on how you will
 ## Scaffolding
 
 To get started with the scaffolding, you should:
-1. **Fork** the [repository](https://github.com/mlberkeley/fa25-nmep-hw4) (click the "Fork" button 
+1. **Fork** the [repository](https://github.com/mlberkeley/sp26-nmep-hw4) (click the "Fork" button 
     at the top right of the GitHub page).
-2. Add your partner's GitHub account as a collaborator. In your forked repository, go to 
-    Settings $$\to$$ Collaborators and teams $$\to$$ Add people.
-3. Clone your forked repository in `honeydew`.
+2. Clone your forked repository in `honeydew`.
 
     ```bash
     ssh honeydew
-    git clone git@github.com:[your-username]/fa25-nmep-hw4.git
-    cd fa25-nmep-hw4
+    git clone git@github.com:[your-username]/sp26-nmep-hw4.git
+    cd sp26-nmep-hw4
     ```
 
     You can either choose to work in an editor like VS Code that supports SSH or
     a terminal-based editor like Vim or Neovim.
 
-4. Install `uv` (`uv` is a modern, faster Python environment manager like `conda`)
+3. Install `uv` (`uv` is a modern, faster Python environment manager like `conda`)
 
     ```bash
     curl -LsSf https://astral.sh/uv/install.sh | sh
@@ -95,7 +93,7 @@ To get started with the scaffolding, you should:
     source .venv/bin/activate # this will activate the venv we just created
     ```
 
-5. You're going to be working in the `seq2seq` directory (which is built like a
+4. You're going to be working in the `seq2seq` directory (which is built like a
     Python library). To work with our Python module while editing it, we'll pip install
     it.
 
@@ -103,11 +101,11 @@ To get started with the scaffolding, you should:
     uv pip install -e . # -e means editable, . means in the current directory: the `seq2seq` module defined in `pyproject.toml`
     ```
 
-6. Next, let's make sure we have all the data we need. We'll use the [EuroParl dataset](https://www.statmt.org/europarl/) for
+5. Next, let's make sure we have all the data we need. We'll use the [EuroParl dataset](https://www.statmt.org/europarl/) for
     paired French-English sentences.
 
     ```bash
-    # make sure you're in the fa25-nmep-hw4/ directory
+    # make sure you're in the sp26-nmep-hw4/ directory
     curl -L https://www.statmt.org/europarl/v7/fr-en.tgz --output data/nmt/fr-en.tgz # nmt stands for neural machine translation
     mkdir data/nmt/europarl
     tar -xvf data/nmt/fr-en.tgz -C data/nmt/europarl/
@@ -134,7 +132,7 @@ homework, you need a way to merge these changes into your forked repository. Her
 you should set this up:
 
 ```bash
-git remote add upstream https://github.com/mlberkeley/fa25-nmep-hw4.git
+git remote add upstream https://github.com/mlberkeley/sp26-nmep-hw4.git
 git fetch upstream
 git merge upstream/main
 ```
@@ -200,7 +198,7 @@ implementation is correct, but can provide some information about
 whether your shapes are at least lining up. Run all tests with:
 
 ```bash
-cd fa25-nmep-hw4 # make sure your uv venv is activated
+cd sp26-nmep-hw4 # make sure your uv venv is activated
 python -m unittest discover tests
 ```
 
@@ -428,7 +426,7 @@ Now, just like how we use many kernels in a CNN, we’ll apply this process on t
 And this is where we get our full scaled dot-product attention equation from the paper:
 
 $$
-\text{attention} = \frac{\sigma(Q K^\top)}{\sqrt{\text{qk}\_\text{length}}} \cdot V
+\text{attention} = \sigma\left(\frac{Q K^\top}{\sqrt{d_{qk}}}\right) \cdot V
 $$
 
 After this diagram, we’ve covered scaled dot-product attention and multi-head attention blocks as described in the 
@@ -440,7 +438,7 @@ Subtasks:
     `scaled_dot_product_attention`, `forward`. 
     Follow the paper closely and use the diagrams for guidance. An implementation of positional encoding is provided for you. 
 2. Implement the `FeedForwardNN` in `seq2seq/transformer/attention.py`. All this entails is adding two `Linear` layers
-    that transform your embeddings of size $$(B, T, C)$$ to some intermediate shape $$(B, T, \text{hidden\_dim})$$ with
+    that transform your embeddings of size $$(B, T, C)$$ to some intermediate shape $$(B, T, \text{hidden_dim})$$ with
     a `ReLU` operation, then transforming them back to $$(B, T, C)$$.
 3. Implement the `Encoder` in `seq2seq/transformer/encoder.py`. You'll need the modules from `attention.py`. In particular,
     implement `EncoderLayer` and then `Encoder`.

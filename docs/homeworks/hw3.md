@@ -227,6 +227,6 @@ You **must** submit at least **once** to kaggle, and for full credit, you **must
 
 We don't expect anything fancy here. Just a brief summary of what you did, what worked, what didn't, and what you learned. If you want to include any plots, feel free to do so. That's brownie points. Feel free to write it below or attach it in a separate file.
 
-**REQUIREMENT**: Everyone in your group must be able to explain what you did! Even if one person carries (I know, it happens) everyone must still be able to explain what's going on!
+**REQUIREMENT**: You must be able to explain what you did!
 
 Now go play with the models and have some competitive fun!
