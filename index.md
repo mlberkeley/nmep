@@ -123,23 +123,23 @@ Your instructor this semester is Surya Krishnapillai!
             <td style="max-width: 30px;">8</td>
             <td>Apr 6</td>
             <td>Reinforcement Learning</td>
-            <td></td>
+            <td>
+            <span class="label label-green"><strong>Final Project Proposal Due</strong></span>
+            </td>
             <td>Kavish, Tanmayi</td>
         </tr>
         <tr>
             <td style="max-width: 30px;">9</td>
             <td>Apr 13</td>
             <td>3D Computer Vision + World Models</td>
-            <td>
-                <span class="label label-green"><strong>Final Project Proposal</strong></span>
-            </td>
+            <td></td>
             <td>Tim, Andrew, Rishi</td>
         </tr>
         <tr>
             <td style="max-width: 30px;">10</td>
             <td>Apr 20</td>
             <td>AI Safety + Conclusion</td>
-            <td><span class="label label-green"><strong>Final Project Checkpoint</strong></span></td>
+            <td><span class="label label-green"><strong>Final Project Checkpoint Due</strong></span></td>
             <td>Prakrat</td>
         </tr>
         <tr>
