@@ -96,7 +96,7 @@ Your instructor this semester is Surya Krishnapillai!
             <td>
                 <span class="label label-red"><strong>NMEP Midterm</strong> (March 15)</span>
             </td>
-            <td>Saathvik, Surya</td>
+            <td>Surya, Saathvik</td>
         </tr>
         <tr>
             <td style="max-width: 30px;">6</td>
@@ -113,7 +113,10 @@ Your instructor this semester is Surya Krishnapillai!
         <tr>
             <td style="max-width: 30px;">7</td>
             <td>March 30</td>
-            <td>SSL + Generative Models</td>
+            <td>SSL + Generative Models
+                (<a href="https://docs.google.com/presentation/d/1HU6GRjLliNj-AvaiSsRGD1qVINpJI9aOG30wPyxNloM/edit?usp=sharing">slides</a>)
+                (<a href="https://drive.google.com/file/d/1yk45gvyCsNLFYHZ1qUGyna0n9l2-Siqf/view?usp=drive_link">slides part 2</a>)
+            </td>
             <td>
                 <span class="label label-green"><strong>Final Project Kickoff</strong></span>
             </td>
@@ -123,7 +126,9 @@ Your instructor this semester is Surya Krishnapillai!
             <td style="max-width: 30px;">8</td>
             <td>Apr 6</td>
             <td>Reinforcement Learning</td>
-            <td></td>
+            <td>
+            <span class="label label-green"><strong>Final Project Proposal Due</strong></span>
+            </td>
             <td>Kavish, Tanmayi</td>
         </tr>
         <tr>
@@ -137,12 +142,12 @@ Your instructor this semester is Surya Krishnapillai!
             <td style="max-width: 30px;">10</td>
             <td>Apr 20</td>
             <td>AI Safety + Conclusion</td>
-            <td><span class="label label-green"><strong>Final Project Checkpoint</strong></span></td>
+            <td><span class="label label-green"><strong>Final Project Checkpoint Due</strong></span></td>
             <td>Prakrat</td>
         </tr>
         <tr>
             <td style="max-width: 30px;">11</td>
-            <td>TBD</td>
+            <td>Late April</td>
             <td><strong>Final Project Showcase</strong></td>
             <td><span class="label label-green"><strong>Final Project Due</strong></span></td>
             <td></td>
