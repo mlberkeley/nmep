@@ -426,7 +426,7 @@ Now, just like how we use many kernels in a CNN, we’ll apply this process on t
 And this is where we get our full scaled dot-product attention equation from the paper:
 
 $$
-\text{attention} = \sigma\left(\frac{Q K^\top}{\sqrt{d_{qk}}}\right) \cdot V
+\text{attention} = \sigma\left(\frac{Q K^\top}{\sqrt{\text{qk_length}}}\right) \cdot V
 $$
 
 After this diagram, we’ve covered scaled dot-product attention and multi-head attention blocks as described in the 
@@ -560,7 +560,7 @@ Subtasks:
 After this step, run:
 
 ```bash
-python -m unittest tests/transformer/test_decoder.py
+python -m unittest tests/test_transformer/test_decoder.py
 ```
 
 You should be passing all these tests. Once this is done, you have a full `Transformer`! We've implemented
