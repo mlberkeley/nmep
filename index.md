@@ -113,7 +113,10 @@ Your instructor this semester is Surya Krishnapillai!
         <tr>
             <td style="max-width: 30px;">7</td>
             <td>March 30</td>
-            <td>SSL + Generative Models</td>
+            <td>SSL + Generative Models
+                (<a href="https://docs.google.com/presentation/d/1HU6GRjLliNj-AvaiSsRGD1qVINpJI9aOG30wPyxNloM/edit?usp=sharing">slides part 1</a>)
+                (<a href="https://drive.google.com/file/d/1yk45gvyCsNLFYHZ1qUGyna0n9l2-Siqf/view?usp=drive_link">slides part 2</a>)
+            </td>
             <td>
                 <span class="label label-green"><strong>Final Project Kickoff</strong></span>
             </td>
