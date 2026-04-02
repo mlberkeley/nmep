@@ -426,7 +426,7 @@ Now, just like how we use many kernels in a CNN, we’ll apply this process on t
 And this is where we get our full scaled dot-product attention equation from the paper:
 
 $$
-\text{attention} = \sigma\left(\frac{Q K^\top}{\sqrt{\text{qk_length}}}\right) \cdot V
+\text{attention} = \sigma\left(\frac{QK^{\top}}{\sqrt{\text{qk}\_\text{length}}}\right) \cdot V
 $$
 
 After this diagram, we’ve covered scaled dot-product attention and multi-head attention blocks as described in the 
@@ -438,7 +438,7 @@ Subtasks:
     `scaled_dot_product_attention`, `forward`. 
     Follow the paper closely and use the diagrams for guidance. An implementation of positional encoding is provided for you. 
 2. Implement the `FeedForwardNN` in `seq2seq/transformer/attention.py`. All this entails is adding two `Linear` layers
-    that transform your embeddings of size $$(B, T, C)$$ to some intermediate shape $$(B, T, \text{hidden_dim})$$ with
+    that transform your embeddings of size $$(B, T, C)$$ to some intermediate shape $$(B, T, \text{hidden}\_\text{dim})$$ with
     a `ReLU` operation, then transforming them back to $$(B, T, C)$$.
 3. Implement the `Encoder` in `seq2seq/transformer/encoder.py`. You'll need the modules from `attention.py`. In particular,
     implement `EncoderLayer` and then `Encoder`.
