@@ -132,7 +132,7 @@ Your instructor this semester is Surya Krishnapillai!
             <span class="label label-green"><strong>Final Project Proposal Due</strong></span>
             <br>
             <span class="label label-yellow"><strong>Homework 5</strong> (due April 13)</span>
-            <a href="https://colab.research.google.com/drive/1FPC6aq6oye9VMVNYb837pCwj3Bv9zsBy?usp=sharing">Diffusion</a> OR <a href="https://rail.eecs.berkeley.edu/deeprlcourse/static/homeworks/hw2.pdf">RL</a>
+            <a href="https://colab.research.google.com/drive/1FPC6aq6oye9VMVNYb837pCwj3Bv9zsBy?usp=sharing">Diffusion</a> OR <a href="https://rail.eecs.berkeley.edu/deeprlcourse/static/homeworks/hw2.pdf">Reinforcement Learning</a>
             </td>
             <td>Kavish, Tanmayi</td>
         </tr>
@@ -152,7 +152,7 @@ Your instructor this semester is Surya Krishnapillai!
         </tr>
         <tr>
             <td style="max-width: 30px;">11</td>
-            <td>May 1</td>
+            <td>May 1 (7-9 PM)</td>
             <td><strong>Final Project Showcase</strong></td>
             <td><span class="label label-green"><strong>Final Project Due</strong></span></td>
             <td></td>
