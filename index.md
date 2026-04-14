@@ -7,7 +7,7 @@ layout: home
 ## NMEP Spring 2026
 
 Welcome everyone!
-In the New Member Education Program (NMEP), we'll be paving a sturdy ML foundation for you - from classical ML to reinforcement learning. Come hungry to learn and get to know the rest of your class!
+In the New Member Education Program (NMEP), we'll be paving a sturdy ML foundation for you - from basic ML definitions to LLMs, generative models, and reinforcement learning. Come hungry to learn and get to know the rest of your class!
 
 Your instructor this semester is Surya Krishnapillai!
 
@@ -140,6 +140,7 @@ Your instructor this semester is Surya Krishnapillai!
             <td style="max-width: 30px;">9</td>
             <td>Apr 13</td>
             <td>3D Computer Vision + World Models</td>
+                (<a href="https://docs.google.com/presentation/d/17q41It5aBOr76ElDfqBNXHgcXvEfE5IWE2ZUhHqfekQ/edit?usp=sharing">slides</a>)
             <td></td>
             <td>Tim, Andrew, Rishi</td>
         </tr>
@@ -152,7 +153,7 @@ Your instructor this semester is Surya Krishnapillai!
         </tr>
         <tr>
             <td style="max-width: 30px;">11</td>
-            <td>May 1 (7-9 PM)</td>
+            <td>May 1</td>
             <td><strong>Final Project Showcase</strong></td>
             <td><span class="label label-green"><strong>Final Project Due</strong></span></td>
             <td></td>
