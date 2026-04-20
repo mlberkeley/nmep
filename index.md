@@ -148,7 +148,9 @@ Your instructor this semester is Surya Krishnapillai!
         <tr>
             <td style="max-width: 30px;">10</td>
             <td>Apr 20</td>
-            <td>AI Safety + Conclusion</td>
+            <td>AI Safety + Conclusion
+                (<a href="https://docs.google.com/presentation/d/1xJsR3sMlBIUOhYuq03v-pV-P6RM_QQEm8OWBhl4c4Yw/edit?usp=sharing">slides</a>)
+            </td>
             <td><span class="label label-green"><strong>Final Project Checkpoint Due</strong></span></td>
             <td>Prakrat</td>
         </tr>
