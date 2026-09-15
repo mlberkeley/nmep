@@ -7,7 +7,7 @@ layout: home
 ## Policies
 
 ### Lectures
-Lectures are on Mondays (8-10 pm @ AAPB 115), except for common midterms (CS61ABC, 70, etc.) and holidays.
+Lectures are on Mondays (8-10:30 pm @ AAPB 115), except for common midterms (CS61ABC, 70, etc.) and holidays.
 
 ### Attendance
 Attendance is mandatory. If you absolutely cannot make it to lecture, please DM any of the leads.
@@ -16,8 +16,7 @@ Attendance is mandatory. If you absolutely cannot make it to lecture, please DM 
 Throughout the semester, we'll be releasing homeworks that accompany lectures. We'll also be hosting mandatory weekly **homework parties** so you can ask questions and work with your fellow new members on the homework.
 
 ### Paper presentations
-Starting from week 4, a group of two will give a presentation on a given paper at the start of the week's lecture. Please make sure to add your name to this
-[signup sheet](https://docs.google.com/spreadsheets/d/1b8OkElGwP0c5ZZPKoxf6n_3iSpcMFypX7O-oV90YWw8/edit?usp=sharing).
+Starting from week 4, a group of two will give a presentation on a given paper at the start of the week's lecture.
 For reference, you may use this [slide template](https://docs.google.com/presentation/d/1CgUaMp7eyq2N8LlilqNMbZAsr1BtTzEkW7HA5eIfWKc/edit?usp=sharing).
 
 ### Midterm

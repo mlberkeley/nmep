@@ -3,6 +3,7 @@ title: Homework 3 - Model Zhu
 parent: Homeworks
 nav_order: 2
 layout: home
+published: false  # remove this line to show the page again
 ---
 
 #  Homework 3: Model Zhu

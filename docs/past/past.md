@@ -7,6 +7,8 @@ layout: home
 ## Past Offerings
 
 <br>
+<a href="/nmep/docs/past/sp26.html">Spring 2026</a>
+
 <a href="/nmep/docs/past/fa25.html">Fall 2025</a>
 
 <a href="/nmep/docs/past/sp25.html">Spring 2025</a>
