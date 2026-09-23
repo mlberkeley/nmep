@@ -35,24 +35,24 @@ Your instructors this semester are Aaditya Agnihotri and Alexander Tian!
             <span class="label"><strong>Lecture Exercise</strong></span>
             <a href="https://drive.google.com/file/d/19LaDxXmTvXUDEouxv-Asf7qBNwfSQRxH/view?usp=drive_link">Rockfall</a>
             <br>
-            <span class="label label-yellow"><strong>Homework 1</strong> (due Sep 23)</span>
+            <span class="label label-yellow"><strong>Homework 1</strong> (due Sep 22)</span>
             <a href="/nmep/assets/hw1/hw1-math.pdf">Math</a>
             <a href="https://colab.research.google.com/github/mlberkeley/nmep/blob/main/assets/hw1/hw1-numpy.ipynb">NumPy</a>
             <a href="https://colab.research.google.com/github/mlberkeley/nmep/blob/main/assets/hw1/hw1-intro-pytorch.ipynb">PyTorch</a>
             </td>
             <td>Aaditya, Alex</td>
         </tr>
-        <!-- Uncomment rows as the semester progresses
         <tr>
             <td style="max-width: 30px;">2</td>
-            <td>Feb 16</td>
+            <td>Sep 22</td>
             <td>Classical Machine Learning
-                (<a href="https://docs.google.com/presentation/d/1Val7XJBUKo0OgYnJD4j7vmHLYOxqtDo9PkP5sKEy3IQ/edit?usp=sharing">slides</a>)
+                (<a href="https://docs.google.com/presentation/d/1YFbFmXqqNmb157FkTKKo06KYTLqk57XqT1rQJ92JQCs/edit?usp=sharing">slides</a>)
                 (<a href="https://docs.google.com/document/d/1K8C-xmWe5VAJBvodxH9-v8nYomVjt7olawJXjqMZhKY/edit?usp=sharing">notes</a>)
             </td>
             <td></td>
-            <td>Surya</td>
+            <td>Aaditya, Alex</td>
         </tr>
+        <!-- Uncomment rows as the semester progresses
         <tr>
             <td style="max-width: 30px;">3</td>
             <td>Feb 23</td>
