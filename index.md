@@ -52,24 +52,24 @@ Your instructors this semester are Aaditya Agnihotri and Alexander Tian!
             <td></td>
             <td>Aaditya, Alex</td>
         </tr>
-        <!-- Uncomment rows as the semester progresses
         <tr>
             <td style="max-width: 30px;">3</td>
             <td>Feb 23</td>
             <td>Deep Learning
-                (<a href="https://docs.google.com/presentation/d/1l6h2Lqfv86eMuB0kUU8Rwxq_mNv7M0A_yWoku_E5bTs/edit?usp=sharing">slides</a>)
+                (<a href="https://docs.google.com/presentation/d/1IfLs1LrzDuuFm_05P3BTIlsCxyyLDM0Mm7cRbGjw3vM/edit?usp=sharing">slides</a>)
                 (<a href="https://docs.google.com/document/d/1_vVDNg2L7n_R8kxTm_opW8AQXanQ9_TDr-K2dgAh7cM/edit?usp=sharing">notes</a>)
             </td>
             <td>
                 <span class="label label-red"><strong>Reading</strong></span>
                 <a href="https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf">How to read a paper</a>
                 <br>
-                <span class="label label-yellow"><strong>Homework 2</strong> (due March 2)</span>
+                <span class="label label-yellow"><strong>Homework 2</strong> (due Oct 5)</span>
                 <a href="docs/homeworks/hw2.html">Word Embeddings</a>
                 <a href="https://colab.research.google.com/drive/1FPTx1RXtBfc4MaTkf7viZZD4U2F9gtKN?usp=sharing">Micrograd</a>
             </td>
-            <td>Surya</td>
+            <td>Aaditya, Alex</td>
         </tr>
+        <!-- Uncomment rows as the semester progresses
         <tr>
             <td style="max-width: 30px;">4</td>
             <td>March 2</td>
