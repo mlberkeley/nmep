@@ -64,7 +64,7 @@ Your instructors this semester are Aaditya Agnihotri and Alexander Tian!
                 <a href="https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf">How to read a paper</a>
                 <br>
                 <span class="label label-yellow"><strong>Homework 2</strong> (due Oct 5)</span>
-                <a href="docs/homeworks/hw2.html">Word Embeddings</a>
+                <a href="docs/homeworks/hw2.md">Word Embeddings</a>
                 <a href="https://colab.research.google.com/drive/1FPTx1RXtBfc4MaTkf7viZZD4U2F9gtKN?usp=sharing">Micrograd</a>
             </td>
             <td>Aaditya, Alex</td>
