@@ -7,7 +7,7 @@ layout: home
 
 # Homework 2: Word Embeddings
 
-In this homework, you will be experimenting with word embeddings. Clone the [skeleton code](https://github.com/mlberkeley/sp26-nmep-hw2) to begin.
+In this homework, you will be experimenting with word embeddings. Clone the [skeleton code](https://github.com/mlberkeley/nmep_hw2) to begin.
 
 ## Part 1: GloVe Embeddings Exercise
 

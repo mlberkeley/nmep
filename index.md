@@ -54,7 +54,7 @@ Your instructors this semester are Aaditya Agnihotri and Alexander Tian!
         </tr>
         <tr>
             <td style="max-width: 30px;">3</td>
-            <td>Feb 23</td>
+            <td>Sep 28</td>
             <td>Deep Learning
                 (<a href="https://docs.google.com/presentation/d/1IfLs1LrzDuuFm_05P3BTIlsCxyyLDM0Mm7cRbGjw3vM/edit?usp=sharing">slides</a>)
                 (<a href="https://docs.google.com/document/d/1_vVDNg2L7n_R8kxTm_opW8AQXanQ9_TDr-K2dgAh7cM/edit?usp=sharing">notes</a>)
