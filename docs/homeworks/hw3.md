@@ -100,7 +100,7 @@ As you complete sections, you will see `WRITTEN ANSWER HERE` flags pop up to ind
 
 ## 2.1: AlexNet
 
-**Implement AlexNet.** Feel free to use the provided LeNet as a template. For convenience, here are the parameters for AlexNet:
+**Implement AlexNet.** Feel free to use the provided LeNet as a template(once you've fixed the bugs). For convenience, here are the parameters for AlexNet:
 
 ```
 Input NxNx3 # For CIFAR 10, you can set img_size to 70
