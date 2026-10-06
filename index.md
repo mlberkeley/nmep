@@ -69,10 +69,9 @@ Your instructors this semester are Aaditya Agnihotri and Alexander Tian!
             </td>
             <td>Aaditya, Alex</td>
         </tr>
-        <!-- Uncomment rows as the semester progresses
         <tr>
             <td style="max-width: 30px;">4</td>
-            <td>March 2</td>
+            <td>Oct 5</td>
             <td>Computer Vision
                 (<a href="https://docs.google.com/presentation/d/16FRcCaVF72MkKK63YkDuq-HRk-OC5hWlNooTzfbh5gM/edit?usp=sharing">slides</a>)
                 (<a href="https://docs.google.com/document/d/1z5Ik8tFjcGqz21di8_C1tGFZUJHq_GPODQHPV76JdkU/edit?usp=sharing">notes</a>)
@@ -81,11 +80,12 @@ Your instructors this semester are Aaditya Agnihotri and Alexander Tian!
                 <span class="label"><strong>Lecture Exercise</strong></span>
                 <a href="https://colab.research.google.com/drive/103Keq-lZgknscTKp7FEcUQHVZvrJM1dN?usp=sharing"> YOLO </a>
                 <br>
-                <span class="label label-yellow"><strong>Homework 3</strong> (due March 16)</span>
+                <span class="label label-yellow"><strong>Homework 3</strong> (due Oct 19)</span>
                 <a href="docs/homeworks/hw3.html">Model Zhu</a>
             </td>
             <td>Tim, Andrew</td>
         </tr>
+        <!-- Uncomment rows as the semester progresses
         <tr>
             <td style="max-width: 30px;">5</td>
             <td>March 9</td>

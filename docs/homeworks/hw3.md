@@ -3,29 +3,30 @@ title: Homework 3 - Model Zhu
 parent: Homeworks
 nav_order: 2
 layout: home
-published: false  # remove this line to show the page again
 ---
 
 #  Homework 3: Model Zhu
 
 In this homework, you will be implementing a few popular computer vision models, and training them on both CIFAR-10 and on a custom dataset we created. You will be using PyTorch for this homework.
 
-You will be using a medium-sized [repository](https://github.com/mlberkeley/sp26-nmep-hw3) which mimics that of a standard codebase which you might find for modern projects. Don't be intimidated! We will walk you through all of the parts of it, and hopefully after this homework you will be more confident working with codebases like this. We believe this is a realistic representation of what you may do in the future, and we hope you will find it useful.
+You will be using a medium-sized [repository](https://github.com/mlberkeley/nmep_model_zhu) which mimics that of a standard codebase which you might find for modern projects. Don't be intimidated! We will walk you through all of the parts of it, and hopefully after this homework you will be more confident working with codebases like this. We believe this is a realistic representation of what you may do in the future, and we hope you will find it useful.
 
 We would recommend you first set up the repository ASAP on honeydew and try running it out of the box to see how it trains, and only afterwards focus on understanding all parts of the code. For your benefit, the codebase works out of the box, and you should be able to train a model on CIFAR-10 with no changes. Throughout the assignment, you will need to make some changes to models/alexnet.py and models/resnet.py, for which you will find the provided implementations of other models in models/ to be helpful.
 
 All of the assignment details are provided in this spec, you will need to fill in some answers on Gradescope and make code changes. 
 
+One heads up: there are **bugs mixed in throughout the infra**. Debugging the infrastructure is part of the assignment, so watch out!
+
 Best of luck, and we hope you enjoy it!
 
 ## Setup 
 
-To get started, you will need to fork and clone [the repository](https://github.com/mlberkeley/sp26-nmep-hw3) (clone on honeydew!) and install the dependencies, preferably in a conda or uv environment. Standard instructions are provided below.
+To get started, you will need to fork and clone [the repository](https://github.com/mlberkeley/nmep_model_zhu) (clone on honeydew!) and install the dependencies, preferably in a conda or uv environment. Standard instructions are provided below.
 
 ```bash
 ssh honeydew
-git clone git@github.com:mlberkeley/sp26-nmep-hw3.git
-cd sp26-nmep-hw3
+git clone git@github.com:mlberkeley/nmep_model_zhu.git
+cd nmep_model_zhu
 conda env create -f env.yml
 conda activate vision-zoo
 CUDA_VISIBLE_DEVICES=0 python main.py --cfg=configs/lenet_base.yaml
