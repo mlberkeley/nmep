@@ -85,19 +85,20 @@ Your instructors this semester are Aaditya Agnihotri and Alexander Tian!
             </td>
             <td>Tim, Andrew</td>
         </tr>
-        <!-- Uncomment rows as the semester progresses
+        
         <tr>
             <td style="max-width: 30px;">5</td>
-            <td>March 9</td>
+            <td>Oct 12</td>
             <td>NLP + Transformers
-                (<a href="https://docs.google.com/presentation/d/1vdouen9dPhzHxi4D3dgYhrBxo5yORsTYHpThNm6aaoA/edit?usp=sharing">slides</a>)
+                (<a href="https://docs.google.com/presentation/d/1x-3SkQciJ3Mbflna757_QW71UEe3frBmH_m1OX6rK6c/edit">slides</a>)
                 (<a href="https://docs.google.com/document/d/1TrmyDARjxQw8tH2Yhd5cpDPem9ylhdhU8n4k3lV5WsQ/edit?usp=sharing">notes</a>)            
             </td>
             <td>
-                <span class="label label-red"><strong>NMEP Midterm</strong> (March 15)</span>
+                <!-- <span class="label label-red"><strong>NMEP Midterm</strong> (March 15)</span> -->
             </td>
-            <td>Surya, Saathvik</td>
+            <td>Aaditya, Alex</td>
         </tr>
+        <!-- Uncomment rows as the semester progresses
         <tr>
             <td style="max-width: 30px;">6</td>
             <td>March 16</td>

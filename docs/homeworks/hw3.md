@@ -221,7 +221,7 @@ You may use `utils/build_csv_preds.py` to build a csv submission file to submit 
 
 For instance, `python3 utils/build_csv_preds.py output/resnet18_medium_imagenet/preds.npy` will generate a csv file based on the `.npy` at `output/resnet18_medium_imagenet/preds.npy`.
 
-Then, simply join the competition [here](https://www.kaggle.com/t/0c2c5d1b8e5f400eaecf03fd03aa2eb4) and upload your csv!.
+Then, simply join the competition [here](https://www.kaggle.com/competitions/nmep-medium-image-net-fa-26) and upload your csv!.
 
 You **must** submit at least **once** to kaggle, and for full credit, you **must** achieve >= 70% accuracy.
 
