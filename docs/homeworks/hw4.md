@@ -3,7 +3,6 @@ title: Homework 4 - Transformers
 parent: Homeworks
 nav_order: 2
 layout: home
-published: false  # remove this line to show the page again
 ---
 
 # Overview
@@ -73,14 +72,14 @@ architecture conceptually in depth, but we'll leave it up to you on how you will
 ## Scaffolding
 
 To get started with the scaffolding, you should:
-1. **Fork** the [repository](https://github.com/mlberkeley/sp26-nmep-hw4) (click the "Fork" button 
+1. **Fork** the [repository](https://github.com/mlberkeley/nmep_transformers_hw) (click the "Fork" button 
     at the top right of the GitHub page).
 2. Clone your forked repository in `honeydew`.
 
     ```bash
     ssh honeydew
-    git clone git@github.com:[your-username]/sp26-nmep-hw4.git
-    cd sp26-nmep-hw4
+    git clone git@github.com:[your-username]/nmep_transformers_hw.git
+    cd nmep_transformers_hw
     ```
 
     You can either choose to work in an editor like VS Code that supports SSH or
@@ -106,7 +105,7 @@ To get started with the scaffolding, you should:
     paired French-English sentences.
 
     ```bash
-    # make sure you're in the sp26-nmep-hw4/ directory
+    # make sure you're in the nmep_transformers_hw/ directory
     curl -L https://www.statmt.org/europarl/v7/fr-en.tgz --output data/nmt/fr-en.tgz # nmt stands for neural machine translation
     mkdir data/nmt/europarl
     tar -xvf data/nmt/fr-en.tgz -C data/nmt/europarl/
@@ -133,7 +132,7 @@ homework, you need a way to merge these changes into your forked repository. Her
 you should set this up:
 
 ```bash
-git remote add upstream https://github.com/mlberkeley/sp26-nmep-hw4.git
+git remote add upstream https://github.com/mlberkeley/nmep_transformers_hw.git
 git fetch upstream
 git merge upstream/main
 ```
@@ -199,7 +198,7 @@ implementation is correct, but can provide some information about
 whether your shapes are at least lining up. Run all tests with:
 
 ```bash
-cd sp26-nmep-hw4 # make sure your uv venv is activated
+cd nmep_transformers_hw # make sure your uv venv is activated
 python -m unittest discover tests
 ```
 

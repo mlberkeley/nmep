@@ -98,19 +98,28 @@ Your instructors this semester are Aaditya Agnihotri and Alexander Tian!
             </td>
             <td>Aaditya, Alex</td>
         </tr>
-        <!-- Uncomment rows as the semester progresses
         <tr>
             <td style="max-width: 30px;">6</td>
-            <td>March 16</td>
+            <td>Oct 19</td>
             <td>Large Language Models
-                (<a href="https://docs.google.com/presentation/d/1oRCO5tL95G57owNAfvZ_7ZYH-KAiCitBYUNZsGz8qXA/edit?usp=sharing">slides</a>)            
+                (<a href="https://docs.google.com/presentation/d/1sOMLS-1zyLRYjfH0N-zYHKNWFA0Sw9s49v73db9ZsFQ/edit?usp=sharing">slides</a>)            
             </td>
             <td>
-                <span class="label label-yellow"><strong>Homework 4</strong> (due April 6)</span>
+                <span class="label label-yellow"><strong>Homework 4</strong> (due Nov 2)</span>
                 <a href="docs/homeworks/hw4.html">Transformers</a>
             </td>
-            <td>Tejas</td>
+            <td>Aaditya, Alex</td>
         </tr>
+        <tr>
+            <td style="max-width: 30px;">7</td>
+            <td>TBD (week of Oct 26)</td>
+            <td><strong>Midterm Week</strong> (no lecture)</td>
+            <td>
+                <span class="label label-red"><strong>NMEP Midterm</strong> (date TBD)</span>
+            </td>
+            <td></td>
+        </tr>
+        <!-- Uncomment rows as the semester progresses
         <tr>
             <td style="max-width: 30px;">7</td>
             <td>March 30</td>
