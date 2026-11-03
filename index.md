@@ -119,19 +119,19 @@ Your instructors this semester are Aaditya Agnihotri and Alexander Tian!
             </td>
             <td></td>
         </tr>
-        <!-- Uncomment rows as the semester progresses
         <tr>
             <td style="max-width: 30px;">7</td>
-            <td>March 30</td>
+            <td>Nov 2</td>
             <td>SSL + Generative Models
-                (<a href="https://docs.google.com/presentation/d/1HU6GRjLliNj-AvaiSsRGD1qVINpJI9aOG30wPyxNloM/edit?usp=sharing">slides</a>)
-                (<a href="https://drive.google.com/file/d/1yk45gvyCsNLFYHZ1qUGyna0n9l2-Siqf/view?usp=drive_link">slides part 2</a>)
+                (<a href="https://docs.google.com/presentation/d/12kQ8kdUInSnpesLYITZxAiJOnsh1o_Ko-9VU3oi8PGc/edit?usp=sharing">slides</a>)
+                (<a href="https://docs.google.com/presentation/d/1RVnIbhDWpsHSYMweJCdEzV3p_0w5rPzhQzlBPpgfD3Y/edit?usp=sharing">slides part 2</a>)
             </td>
             <td>
                 <span class="label label-green"><strong>Final Project Kickoff</strong></span>
             </td>
-            <td>Surya, Aakarsh</td>
+            <td>Alex, Aaditya</td>
         </tr>
+        <!-- Uncomment rows as the semester progresses
         <tr>
             <td style="max-width: 30px;">8</td>
             <td>Apr 6</td>
